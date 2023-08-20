@@ -1,0 +1,59 @@
+baseurl = "https://www.scoala1bistrita.ro"
+languageCode = "ro"
+title = "Scoala Gimnaziala Nr.1 Bistrita"
+
+theme = "tikva"
+
+# Language setting of the site, for language configuration see
+#  https://gohugo.io/content-management/multilingual/
+# There are only a few strings which need to be translated, feel free to add more
+# languages.
+DefaultContentLanguage = "ro" # current values: "en" or "de"
+paginate = 10
+
+#googleAnalytics = "UA-96357266-1"
+enableEmoji = true
+#enableGitInfo = true
+enableRobotsTXT = true
+canonifyURLs = true
+summaryLength = 55
+rssLimit = 20
+pygmentsUseClasses = true
+disablePathToLower = true
+# sectionPagesMenu = 'main'
+
+disableKinds = [ "taxonomy" ]
+ignoreErrors = [ "error-disable-taxonomy" ]
+
+# For all color settings, please use the format "#rrggbb". 
+[permalinks]
+tags = "/articole/:slug/"
+
+[outputs]
+home = [ "HTML", "RSS", "JSON" ]
+section = [ "HTML" ]
+term = [ "HTML" ]
+
+[author]
+name = "Florin Munteanu"
+email = ""
+
+[sitemap]
+changefreq = "daily"
+filename = "sitemap.xml"
+priority = 0.5
+
+[related]
+includeNewer = true
+threshold = 60
+toLower = true
+
+  [[related.indices]]
+  name = "tags"
+  weight = 100
+
+  [[related.indices]]
+  name = "date"
+  weight = 10
+
+

@@ -1,0 +1,20 @@
+
+# Menu section
+
+# This is an example of the main menu. You can also use the in-file setting in the header of the content files. 
+
+[[main]]
+    identifier = "home"
+    name = "Acasa"
+    url = "/"
+    weight = 10
+[[main]]
+    identifier = "anunturi"
+    name = "Anunturi"
+    url = "/anunturi"
+    weight = 20
+[[main]]
+    identifier = "scoala"
+    name = "Scoala"
+    url = "/scoala"
+    weight = 30
