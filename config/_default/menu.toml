@@ -5,16 +5,46 @@
 
 [[main]]
     identifier = "home"
-    name = "Acasa"
+    name = "Acasă"
     url = "/"
     weight = 10
 [[main]]
-    identifier = "anunturi"
-    name = "Anunturi"
-    url = "/anunturi"
+    identifier = "scoala"
+    name = "Școala"
+    url = "/scoala"
     weight = 20
 [[main]]
-    identifier = "scoala"
-    name = "Scoala"
-    url = "/scoala"
+    identifier = "Oferta școlară"
+    name = "Oferta"
+    url = "/Oferta"
     weight = 30
+[[main]]
+    identifier = "Programe și proiecte"
+    name = "Programe și proiecte"
+    url = "/Programe și proiecte"
+    weight = 40
+[[main]]
+    identifier = "Elevi"
+    name = "Elevi"
+    url = "/Elevi"
+    weight = 50
+[[main]]
+    identifier = "Părinți"
+    name = "Părinți"
+    url = "/Părinți"
+    weight = 60
+[[main]]
+    identifier = "Orar"
+    name = "Orar"
+    url = "/Orar"
+    weight = 70
+[[main]]
+    identifier = "interes"
+    name = "Interes public"
+    url = "/Interes public"
+    weight = 80
+[[main]]
+    identifier = "anunturi"
+    name = "Anunțuri"
+    url = "/Anunțuri"
+    weight = 90
