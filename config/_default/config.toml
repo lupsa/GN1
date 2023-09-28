@@ -19,7 +19,7 @@ canonifyURLs = true
 summaryLength = 55
 rssLimit = 20
 pygmentsUseClasses = true
-disablePathToLower = true
+disablePathToLower = false
 # sectionPagesMenu = 'main'
 
 disableKinds = [ "taxonomy" ]
@@ -27,7 +27,9 @@ ignoreErrors = [ "error-disable-taxonomy" ]
 
 # For all color settings, please use the format "#rrggbb". 
 [permalinks]
-tags = "/articole/:slug/"
+    tags = "/articole/:slug/"
+[permalinks.section]
+    scoala = '/scoala/'
 
 [outputs]
 home = [ "HTML", "RSS", "JSON" ]

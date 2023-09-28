@@ -4,47 +4,71 @@
 # This is an example of the main menu. You can also use the in-file setting in the header of the content files. 
 
 [[main]]
-    identifier = "home"
+    identifier = "acasa"
     name = "Acasă"
-    url = "/"
+    pageRef = "/"
     weight = 10
 [[main]]
     identifier = "scoala"
     name = "Școala"
-    url = "/scoala"
+    pageRef = "/scoala"
     weight = 20
 [[main]]
-    identifier = "Oferta școlară"
+    identifier = "oferta-scolara"
     name = "Oferta"
-    url = "/Oferta"
+    pagteRef = "/oferta"
     weight = 30
 [[main]]
-    identifier = "Programe și proiecte"
+    identifier = "programe-proiecte"
     name = "Programe și proiecte"
-    url = "/Programe și proiecte"
+    pageRef = "/programe si proiecte"
     weight = 40
+    [[main]]
+        identifier = "Erasmus"
+        parent = "programe-proiecte"
+        name = "Erasmus+"
+        pageRef = "/programe si proiecte/Erasmus+"
+        weight = 1
+    [[main]]
+        identifier = "proiecte-educationale"
+        parent = "programe-proiecte"
+        name = "Proiecte educationale"
+        pageRef = "/programe si proiecte/Proiecte educationale"
+        weight = 2
+    [[main]]
+        identifier = "scoala-increderii"
+        parent = "programe-proiecte"
+        name = "Școala increderii"
+        pageRef = "/programe si proiecte/Scoala increderii"
+        weight = 3
 [[main]]
-    identifier = "Elevi"
+    identifier = "elevi"
     name = "Elevi"
-    url = "/Elevi"
+    pageRef = "/Elevi"
     weight = 50
+    [[main]]
+        identifier = "examene"
+        parent = "elevi"
+        name = "Examene"
+        pageRef = "/Elevi/Examene"
+        weight = 1
 [[main]]
-    identifier = "Părinți"
+    identifier = "parinti"
     name = "Părinți"
-    url = "/Părinți"
+    pageRef = "/parinti"
     weight = 60
 [[main]]
-    identifier = "Orar"
+    identifier = "orar"
     name = "Orar"
-    url = "/Orar"
+    pageRef = "/orar"
     weight = 70
 [[main]]
     identifier = "interes"
     name = "Interes public"
-    url = "/Interes public"
+    pageRef = "/interes public"
     weight = 80
 [[main]]
     identifier = "anunturi"
     name = "Anunțuri"
-    url = "/Anunțuri"
+    pageRef = "/anunturi"
     weight = 90
