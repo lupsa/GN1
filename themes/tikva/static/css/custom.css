@@ -110,6 +110,9 @@
 
 
 /* Menu Settings - later... maybe... */
+#navbarMain {
+    height: 45px;
+}
 .main-nav ul {
   text-align: center;
   letter-spacing: -1em;
