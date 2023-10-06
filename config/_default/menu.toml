@@ -16,7 +16,7 @@
 [[main]]
     identifier = "oferta-scolara"
     name = "Oferta"
-    pagteRef = "/oferta"
+    pageRef = "/oferta"
     weight = 30
 [[main]]
     identifier = "programe-proiecte"

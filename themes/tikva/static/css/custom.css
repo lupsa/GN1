@@ -194,3 +194,17 @@
 .main-nav .has-children .has-children > a:after {
   content: "\f105";
 }
+
+/* Breadcrumb */
+.breadcrumb ol {
+  padding-left: 0;
+  margin-bottom: 0;
+}
+
+.breadcrumb li {
+  display: inline;
+}
+
+.breadcrumb li:not(:last-child)::after {
+  content: "»";
+}
