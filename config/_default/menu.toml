@@ -9,15 +9,88 @@
     pageRef = "/"
     weight = 10
 [[main]]
-    identifier = "scoala"
-    name = "Școala"
-    pageRef = "/scoala"
+    identifier = "prezentare"
+    name = "Prezentare"
+    pageRef = "/prezentare"
     weight = 20
+     [[main]]
+        identifier = "Despre"
+        parent = "prezentare"
+        name = "Despre"
+        pageRef = "/prezentare/despre"
+        weight = 1
+    [[main]]
+        identifier = "echipa"
+        parent = "prezentare"
+        name = "Echipa"
+        pageRef = "/prezentare/echipa"
+        weight = 2
+    [[main]]
+        identifier = "contact"
+        parent = "prezentare"
+        name = "Contact"
+        pageRef = "/prezentare/contact"
+        weight = 3
+     [[main]]
+        identifier = "Orar"
+        parent = "prezentare"
+        name = "Orar"
+        pageRef = "/prezentare/Orar"
+        weight = 4
+    [[main]]
+        identifier = "Repartitie"
+        parent = "prezentare"
+        name = "Repartitie"
+        pageRef = "/prezentare/Repartitie"
+        weight = 5
+    [[main]]
+        identifier = "documente"
+        parent = "prezentare"
+        name = "Documente"
+        pageRef = "/prezentare/Documente"
+        weight = 6
+    [[main]]
+        identifier = "CEAC"
+        parent = "prezentare"
+        name = "CEAC"
+        pageRef = "/prezentare/CEAC"
+        weight = 7
+    [[main]]
+        identifier = "50-Ani"
+        parent = "prezentare"
+        name = "Aniversare 50 Ani"
+        pageRef = "/prezentare/50-Ani"
+        weight = 8
 [[main]]
-    identifier = "oferta-scolara"
+    identifier = "Oferta"
     name = "Oferta"
-    pageRef = "/oferta"
+    pageRef = "/Oferta"
     weight = 30
+   [[main]]
+        identifier = "inscrieri"
+        parent = "Oferta"
+        name = "Înscrieri clasa pregătitoare"
+        pageRef = "/Oferta/Inscrieri"
+        weight = 1
+    [[main]]
+        identifier = "primar"
+        parent = "Oferta"
+        name = "Învățământ primar"
+        pageRef = "/Oferta/Primar"
+        weight = 2
+    [[main]]
+        identifier = "gimnaziu"
+        parent = "Oferta"
+        name = "Învățământ gimnazial"
+        pageRef = "/Oferta/Gimnaziu"
+        weight = 3
+    [[main]]
+        identifier = "Asociația părintilor"
+        parent = "Oferta"
+        name = "Asociația Părinților"
+        pageRef = "/Oferta/parinti"
+        weight = 11   
+
 [[main]]
     identifier = "programe-proiecte"
     name = "Programe și proiecte"
@@ -53,22 +126,7 @@
         pageRef = "/Elevi/Examene"
         weight = 1
 [[main]]
-    identifier = "parinti"
-    name = "Părinți"
-    pageRef = "/parinti"
-    weight = 60
-[[main]]
-    identifier = "orar"
-    name = "Orar"
-    pageRef = "/orar"
-    weight = 70
-[[main]]
-    identifier = "interes"
-    name = "Interes public"
-    pageRef = "/interes public"
-    weight = 80
-[[main]]
     identifier = "anunturi"
     name = "Anunțuri"
     pageRef = "/anunturi"
-    weight = 90
+    weight = 60

@@ -1,3 +1,3 @@
 ---
-title: "Oferta"
+title: "Oferta educațională"
 ---

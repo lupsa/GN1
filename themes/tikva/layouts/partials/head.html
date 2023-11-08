@@ -51,11 +51,11 @@
 body {
 
     {{- if eq $navbarStyle "fixed-top" -}}
-    /* Move down content because we have a fixed navbar that is 60px tall */
+    /* Move down content because we have a fixed navbar that is 50px tall */
 
-        {{- $paddingTop := 60 -}}
+        {{- $paddingTop := 50 -}}
         {{- if .Site.Params.Navbar.AdjustHeader -}}
-            {{- $paddingTop  = add 60 .Site.Params.Navbar.AdjustHeader -}}
+            {{- $paddingTop  = add 50 .Site.Params.Navbar.AdjustHeader -}}
         {{- end -}}
         padding-top: {{ $paddingTop }}px;
     {{- end -}}
