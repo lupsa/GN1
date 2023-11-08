@@ -1,0 +1,4 @@
+---
+title: "Regulamente"
+---
+Se Regulamentele ....
