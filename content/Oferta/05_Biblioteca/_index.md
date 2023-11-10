@@ -9,9 +9,7 @@ title: "Biblioteca GN1"
 Biblioteca reprezintă pentru școală o carte de vizită. Ea cuprinde un număr de 14928 volume, structurate după Clasificarea Zecimală Universală, asigură baza documentară și de informații necesare procesului de învățământ, la nivelul aprofundării studiului, realizează valorificarea şi comunicarea documentelor şi surselor de informații, facilitează accesul rapid la diverse categorii de surse, organizează un sistem de servicii pentru toate categoriile de utilizatori. Se oferă cărți din bibliografia școlară, lucrări de referință, cărți pentru copii, beletristică, literatură universală, publicații adresate tuturor disciplinelor școlare
 Biblioteca reprezintă unul dintre spațiile cele mai importante din școală, întrucât contribuie la apropierea elevilor de lectură şi sprijină cadrele didactice în reușita actului educațional.
 
-&nbsp;![Alt text](1a.jpg)
-
-&nbsp; ![Alt text](1b.jpg)
+&nbsp;![Alt text](1a.jpg) &nbsp; ![Alt text](1b.jpg)
 
 &nbsp;Este o practică obișnuită a bibliotecii organizarea de expoziții aniversare, ocazii de readucere în memoria cititorilor a scriitorilor importanți din literatura și cultura română, activități care marchează evenimentele majore anuale, cum ar fi: Octombrie – Luna Internațională a Bibliotecilor Școlare, , 1 Decembrie – Ziua Națională a României, Ziua Culturii Naționale – Ziua Luceafărului Poeziei Românești, 1 Februarie – Ziua Internațională a Cititului Împreună ș.a.
 Deși internetul și activitățile on-line reprezintă o provocare a lumii moderne, biblioteca rămâne o constantă culturală, un simbol al profunzimii spirituale.
@@ -29,8 +27,6 @@ Vom citi cărți și în format clasic și în format electronic. Nu suntem obli
 
 &nbsp;Indiferent de gusturile literare, lectura trebuie sa facă parte din viețile noastre deoarece prin intermediul ei reușim să ne lărgim perspectiva asupra lumii, ne sprijină dezvoltarea personală, ne hrănește spiritul  și imaginația, ne motivează și ne încurajează întotdeauna, fiind alături de noi pe drumul vieții.
 
-&nbsp;![Alt text](2a.jpg)
-
-&nbsp; ![Alt text](2b.jpg)
+&nbsp;![Alt text](2a.jpg) &nbsp; ![Alt text](2b.jpg)
 
 *Bibliotecar:* **Prof**. *Bianca Maria Bucșa*
