@@ -70,63 +70,145 @@
         identifier = "inscrieri"
         parent = "Oferta"
         name = "Înscrieri clasa pregătitoare"
-        pageRef = "/Oferta/Inscrieri"
+        pageRef = "/Oferta/01_Inscrieri"
         weight = 1
     [[main]]
         identifier = "primar"
         parent = "Oferta"
         name = "Învățământ primar"
-        pageRef = "/Oferta/Primar"
+        pageRef = "/Oferta/02_Primar"
         weight = 2
     [[main]]
         identifier = "gimnaziu"
         parent = "Oferta"
         name = "Învățământ gimnazial"
-        pageRef = "/Oferta/Gimnaziu"
+        pageRef = "/Oferta/03_Gimnaziu"
         weight = 3
+    [[main]]
+        identifier = "CDS"
+        parent = "Oferta"
+        name = "CDS"
+        pageRef = "/oferta/04_CDS"
+        weight= 4
+    [[main]]
+        identifier = "Biblioteca"
+        parent = "Oferta"
+        name = "Biblioteca"
+        pageRef = "/oferta/05_Biblioteca"
+        weight= 5
+    [[main]]
+        identifier = "consilier"
+        parent = "Oferta"
+        name = "Cabinet consiliere"
+        pageRef = "/oferta/06_Consilier"
+        weight= 6
+    [[main]]
+        identifier = "logoped"
+        parent = "Oferta"
+        name = "Cabinet logopedie"
+        pageRef = "/oferta/07_Logoped"
+        weight= 7
+    [[main]]
+        identifier = "medic"
+        parent = "Oferta"
+        name = "Cabinet medical"
+        pageRef = "/oferta/08_Medic"
+        weight= 8
+    [[main]]
+        identifier = "secretariat"
+        parent = "Oferta"
+        name = "Secretariat"
+        pageRef = "/oferta/09_Secretariat"
+        weight= 9
+    [[main]]
+        identifier = "Administrativ-Contabilitate"
+        parent = "Oferta"
+        name = "Administrativ-Contabilitate"
+        pageRef = "/oferta/10_Administrativ-Conta"
+        weight= 10
     [[main]]
         identifier = "Asociația părintilor"
         parent = "Oferta"
         name = "Asociația Părinților"
-        pageRef = "/Oferta/parinti"
+        pageRef = "/Oferta/11_Parinti"
         weight = 11   
-
 [[main]]
-    identifier = "programe-proiecte"
-    name = "Programe și proiecte"
-    pageRef = "/programe si proiecte"
+    identifier = "Examene"
+    name = "Examene"
+    pageRef = "/Examene"
     weight = 40
     [[main]]
-        identifier = "Erasmus"
-        parent = "programe-proiecte"
-        name = "Erasmus+"
-        pageRef = "/programe si proiecte/Erasmus+"
+        identifier = "Evaluări - 0246"
+        parent = "Examene"
+        name = "Evaluări - 0246"
+        pageRef = "/Examene/01_Evaluari-0246"
         weight = 1
     [[main]]
-        identifier = "proiecte-educationale"
-        parent = "programe-proiecte"
-        name = "Proiecte educationale"
-        pageRef = "/programe si proiecte/Proiecte educationale"
+        identifier = "Evaluare Natațională"
+        parent = "Examene"
+        name = "Evaluare națională - 2024"
+        pageRef = "/Examene/02_EvNat-08"
         weight = 2
     [[main]]
-        identifier = "scoala-increderii"
-        parent = "programe-proiecte"
-        name = "Școala increderii"
-        pageRef = "/programe si proiecte/Scoala increderii"
+        identifier = "Simulari"
+        parent = "Examene"
+        name = "Simulari examene"
+        pageRef = "/Examene/03_Simulari"
         weight = 3
+     [[main]]
+        identifier = "Admitere"
+        parent = "Examene"
+        name = "Admitere"
+        pageRef = "/Examene/04_Admitere"
+        weight = 4
 [[main]]
-    identifier = "elevi"
-    name = "Elevi"
-    pageRef = "/Elevi"
+    identifier = "Rezultate"
+    name = "Rezultate"
+    pageRef = "/Rezultate"
     weight = 50
     [[main]]
-        identifier = "examene"
-        parent = "elevi"
-        name = "Examene"
-        pageRef = "/Elevi/Examene"
+        identifier = "Olimpiade"
+        parent = "Rezultate"
+        name = "Olimpiade"
+        pageRef = "/Rezultate/01_Olimpiade"
         weight = 1
+    [[main]]
+        identifier = "Concursuri"
+        parent = "Rezultate"
+        name = "Concursuri"
+        pageRef = "/Rezultate/02_Concursuri"
+        weight = 2
 [[main]]
-    identifier = "anunturi"
-    name = "Anunțuri"
-    pageRef = "/anunturi"
+    identifier = "Reviste și publicații"
+    name = "Reviste"
+    pageRef = "/Reviste"
     weight = 60
+[[main]]
+    identifier = "Activități"
+    name = "Activități"
+    pageRef = "/Activitati"
+    weight = 70
+    [[main]]
+        identifier = "Școala Altfel"
+        parent = "Activități"
+        name = "Școala Altfel"
+        pageRef = "/Activitati/01_Altfel"
+        weight = 1
+    [[main]]
+        identifier = "Săptămâna verde"
+        parent = "Activități"
+        name = "Săptămâna verde"
+        pageRef = "/Activitati/02_Verde"
+        weight = 2
+    [[main]]
+        identifier = "Erasmus+"
+        parent = "Activități"
+        name = "Erasmus+"
+        pageRef = "/Activitati/03_Erasmus+"
+        weight = 3
+    [[main]]
+        identifier = "Școala Încrederii"
+        parent = "Activități"
+        name = "Școala Încrederii"
+        pageRef = "/Activitati/03_Increderii"
+        weight = 4

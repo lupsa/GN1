@@ -1,3 +1,0 @@
----
-title: "Programe și proiecte"
----
