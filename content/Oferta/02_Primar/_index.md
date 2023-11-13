@@ -2,10 +2,7 @@
 title: "Învățământ primar"
 ---
 
-
-
 *PRIVIRE DE ANSAMBLU ASUPRA ACTIVITĂȚILOR DESFĂȘURATE ÎN ANII ȘCOLARI 2018-2023 LA CLASELE PRIMARE ÎN ȘCOALA GIMNAZIALĂ NR.1 BISTRIȚA*
-
 
 &nbsp; Școala Gimnazială Nr.1 Bistrița a fost întotdeauna un gigant școlar, căutată de elevi și părinți, pentru că aici CALITATEA este la ea acasă - e un deziderat care se transmite din generație în generație, e ethos organizațional. Pentru cei mai mulți dintre noi școala absolvită lasă o amprentă clară și rămâne de-a lungul vieții un punct de reper, un tărâm al tumultului de tinerețe și entuziasm care răzbate în timp și peste timpuri.
 
