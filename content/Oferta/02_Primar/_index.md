@@ -24,11 +24,10 @@ Pentru ca motivația să existe din toate punctele de vedere, fiecare învăță
 
 &nbsp; *Un impact deosebit au avut activitățile din  Proiectul  Național "Copil ca tine sunt și eu…", cele organizate pentru Ziua Mondială a Educației, Ziua Internațională a Profesorului, Ziua Culturii Naționale, Ziua Mondială a Pământului, Ziua Jandarmeriei. S-au desfășurat proiecte tematice, cum ar fi: Ziua Cofetăriilor, Cercul de pictură 2021, Ziua Apei, Visit Bistrița - proiect finanțat de Primăria Bistrița, Crăciun - multiculturalitate în Bistrița, 1 Decembrie 2022 - Drag de România mea, Săptămâna Educației Globale, 1 Iunie, Zici 2022, Tabăra Speranței Herina, Excursii școlare, Sărbători Pascale, Povești adevărate din țara mea.*
 
-&nbsp;***Proiecte educaționale** - Frumoasă și bogată toamnă; România, te iubesc!, Te iubesc, mămico! Profesor pentru o zi-un trio funcțional; Poveste de Toamnă, Târgul de Crăciun,  Atelierele de vară AMmA Kids.*
+***Proiecte educaționale** - Frumoasă și bogată toamnă; România, te iubesc!, Te iubesc, mămico! Profesor pentru o zi-un trio funcțional; Poveste de Toamnă, Târgul de Crăciun,  Atelierele de vară AMmA Kids.*
+{{< figure src="2a-c.png" title="Școala de vară AMmA" width="300px" class="text-center" >}}
 
- &nbsp;![Alt text](2a-c.png)
-
-&nbsp; Participarea la simpozioane, mese rotunde, conceperea și desfășurarea unor parteneriate educaționale au constituit mijloace eficiente de formare continuă. Educația rămâne metodă și principiu, reprezintă creșterea intelectuală și morală, este autodevenire, este sistem de valori, este mod de gândire, este gen de viață, este devenire și înălțare. Educația este un sistem grație căruia omul și umanitatea pot să crească sau să se autodepășească. Educația dată de școală rămâne ceva specific și esențial.
+Participarea la simpozioane, mese rotunde, conceperea și desfășurarea unor parteneriate educaționale au constituit mijloace eficiente de formare continuă. Educația rămâne metodă și principiu, reprezintă creșterea intelectuală și morală, este autodevenire, este sistem de valori, este mod de gândire, este gen de viață, este devenire și înălțare. Educația este un sistem grație căruia omul și umanitatea pot să crească sau să se autodepășească. Educația dată de școală rămâne ceva specific și esențial.
 
  &nbsp; Dăruirea, seriozitatea, perseverența, profesionalismul, dragostea pentru copii și profesie sunt atributele dascălilor care predau în învățământul primar.
 
