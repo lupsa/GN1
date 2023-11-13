@@ -14,10 +14,10 @@
     pageRef = "/prezentare"
     weight = 20
      [[main]]
-        identifier = "Despre"
+        identifier = "Istoric"
         parent = "prezentare"
-        name = "Despre"
-        pageRef = "/prezentare/despre"
+        name = "Scurt Istoric"
+        pageRef = "/prezentare/Istoric"
         weight = 1
     [[main]]
         identifier = "echipa"
