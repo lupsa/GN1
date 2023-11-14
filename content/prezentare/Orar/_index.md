@@ -16,6 +16,5 @@ Orar valabil din data 17 octombrie 2023
 &nbsp;
 &nbsp;
 
-
 #### **Orarul profesorilor:**
 {{< embed-pdf url="profesori.pdf"  >}}
