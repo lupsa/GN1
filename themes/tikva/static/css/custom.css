@@ -30,10 +30,6 @@ main header {
 
 }
 
-.dropdown-menu {
-    margin: 0;
-}
-
 button:focus, .nav-link:focus {
     outline: 0;
 }
