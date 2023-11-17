@@ -1,7 +1,42 @@
 ---
 title: "Echipa managerială:"
 ---
+**COMPONENȚA CONSILIULUI DE ADMINISTRAȚIE A ȘCOLII GIMNAZIALE NR.1 BISTRIȚA**
 &nbsp;
+&nbsp;
+- ##### Director: prof. Ancuța-Ioana MIHAIU - președinte;
+
+- ##### Director adjunct: prof. Elena-Dana MORARU - membru;
+  
+- ##### Prof. Monia TODEA - membru;
+
+- ##### Prof. Nicoleta TOMA - membru;
+
+- ##### Prof. Lenuța VAMANU - membru;
+  
+- ##### Laurean Radu BRIA  - membru, președinte Asociația de părinți;
+
+- ##### Adriana ANTONEAC - membru reprezentant Asociația de părinți;
+
+- ##### Cristina CUDREC - membru, reprezentant Asociația de părinți;
+
+
+- ##### Mărioara GAGA-SEICA - membru, reprezentant Consiliul Local;
+
+- ##### Emil Marian SUCIU - membru, reprezentant Consiliul Local;
+
+- ##### Ioan PAPOI - membru, reprezentant Primăria Bistrița;
+
+
+
+&nbsp;
+&nbsp;
+
+**PROGRAM DE AUDIENȚE**
+
+&nbsp;
+
+
 **Director: Prof. Mihaiu Ancuța-Ioana**
 &nbsp;
 
@@ -28,6 +63,7 @@ title: "Echipa managerială:"
 &nbsp;
 **Date de contact :**
 &nbsp;
+
  **Școala Gimnazială Nr.1**
 
 - Bistrița, Str. B-dul Independenței, Nr. 46;
