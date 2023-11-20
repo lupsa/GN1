@@ -37,9 +37,6 @@ home = [ "HTML", "RSS", "JSON" ]
 section = [ "HTML" ]
 term = [ "HTML" ]
 
-[author]
-name = "Florin Munteanu"
-email = ""
 
 [sitemap]
 changefreq = "daily"
