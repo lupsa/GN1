@@ -1,6 +1,6 @@
 # Generic parameters
 appendSiteTitle = true # Append site title to title tag on every page. Default false
-#favicon = 'img/favicon.ico' # Add favicon, default empty
+favicon = 'img/favicon/favicon.ico' # Add favicon, default empty
 #subtitle = "Example of Subtitle"
 
 dateFormat = ":date_long" # Format date with Hugo date format https://gohugo.io/functions/dateformat/
@@ -137,12 +137,12 @@ email = ""
     navbarVariant = '' # See above
     navbarSize = '20px' # See above
 
-    body = 'Open Sans' # font settings for body content
+    body = 'Noto Sans' # font settings for body content
     bodyGoogleFont = true # If the font in the above variable is a Google font, set this option to true. 
     bodyVariant = '400' # See above
     bodySize = '16px' # See above
 
-    headline = 'Open Sans' # font settings for body content
+    headline = 'Noto Serif' # font settings for body content
     headlineGoogleFont = true # If the font in the above variable is a Google font, set this option to true. 
     headlineVariant = '' # See above
     headlineBaseSize = '' # Set base font of headlines. The real size of H1 - H6 will be calculated based on this size with the same resize factors as in the CSS framework. Choose a size of 0 (zero) to use the default font size of the theme. Please use only integer values without "px", "em" or something else. 
@@ -174,6 +174,6 @@ email = ""
 # Post options
 
 [post]
-  imageTitleAsCaption = false # default false; set to true to use image title as caption.
+  imageTitleAsCaption = true # default false; set to true to use image title as caption.
                               # Markdown example: ![Image Caption](/image.jpg "This is my image title as caption")
 

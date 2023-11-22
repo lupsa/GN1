@@ -21,3 +21,4 @@ De-a lungul timpului, elevii școlii noastre s-au situat mereu în topul olimpic
 ȘCOALA GIMNAZIALĂ NR. 1 BISTRIȚA, se bucură de o înalta apreciere în cadrul comunității locale, fiind un adevărat etalon în activitatea instructiv - educativă a tinerei generații.
 
 FIȚI BINE VENIȚI ÎN ȘCOALA NOASTRĂ
+{.text-center .fw-bold}
