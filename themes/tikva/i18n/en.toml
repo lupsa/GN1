@@ -12,3 +12,9 @@ other = "Author"
 
 [words]
 other = "Words"
+
+[next]
+other = "Next"
+
+[previous]
+other = "Previous"
