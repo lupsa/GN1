@@ -10,7 +10,6 @@ Biblioteca reprezintă pentru școală o carte de vizită. Ea cuprinde un număr
 Biblioteca reprezintă unul dintre spațiile cele mai importante din școală, întrucât contribuie la apropierea elevilor de lectură şi sprijină cadrele didactice în reușita actului educațional.
 
 &nbsp;![Alt text](1a.jpg) ![Alt text](1b.jpg)
-{{ <figure> <img src="http://localhost:1313/oferta/05_biblioteca/1a.jpg"> <figcaption><h4>An elephant at sunset</h4></figcaption> </figure> }}
 
 &nbsp;Este o practică obișnuită a bibliotecii organizarea de expoziții aniversare, ocazii de readucere în memoria cititorilor a scriitorilor importanți din literatura și cultura română, activități care marchează evenimentele majore anuale, cum ar fi: Octombrie – Luna Internațională a Bibliotecilor Școlare, , 1 Decembrie – Ziua Națională a României, Ziua Culturii Naționale – Ziua Luceafărului Poeziei Românești, 1 Februarie – Ziua Internațională a Cititului Împreună ș.a.
 Deși internetul și activitățile on-line reprezintă o provocare a lumii moderne, biblioteca rămâne o constantă culturală, un simbol al profunzimii spirituale.
