@@ -12,3 +12,9 @@ other = "Autor"
 
 [words]
 other = "Cuvinte"
+
+[next]
+other = "Înainte"
+
+[previous]
+other = "Înapoi"
