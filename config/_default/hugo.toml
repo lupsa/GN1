@@ -1,6 +1,6 @@
 baseurl = "https://www.scoala1bistrita.ro"
 languageCode = "ro"
-title = "Scoala Gimnaziala Nr.1 Bistrita"
+title = "Școala Gimnazială Nr. 1 Bistrița"
 
 theme = ["tikva"]
 enableInlineShortcodes = true
@@ -20,7 +20,7 @@ canonifyURLs = true
 summaryLength = 55
 rssLimit = 20
 pygmentsUseClasses = true
-disablePathToLower = false
+disablePathToLower = true
 # sectionPagesMenu = 'main'
 
 disableKinds = [ "taxonomy" ]

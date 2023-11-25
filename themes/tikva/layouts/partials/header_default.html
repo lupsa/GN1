@@ -64,7 +64,7 @@
 
                 <div id="site-header-container-overlay" class="position-absolute {{ $headerContainerClass }}">
                     <div id="site-header-box-title" class="{{ $headerBoxClassTitle }}">
-                        <h1 class="azbalac-title" id="site-header-text"><a class="header-url" style="{{ if .Site.Params.Theme.Header.FontColorTitle }}color: {{ .Site.Params.Theme.Header.FontColorTitle }};{{ end }}" href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></h1>
+                        <h1 class="azbalac-title" id="site-header-text"><a class="header-url text-decoration-none" style="{{ if .Site.Params.Theme.Header.FontColorTitle }}color: {{ .Site.Params.Theme.Header.FontColorTitle }};{{ end }}" href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></h1>
                     </div>
                     {{ if .Site.Params.Subtitle }}
                     <div id="site-header-box-subtitle" class="{{ $headerBoxClassSubtitle }}">   
