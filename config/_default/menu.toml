@@ -40,13 +40,13 @@
     [[main]]
         identifier = "Repartitie"
         parent = "prezentare"
-        name = "Repartitie"
+        name = "Repartitia claselor"
         pageRef = "/prezentare/Repartitie"
         weight = 5
     [[main]]
         identifier = "documente"
         parent = "prezentare"
-        name = "Documente"
+        name = "Documente publice"
         pageRef = "/prezentare/Documente"
         weight = 6
     [[main]]
@@ -69,7 +69,7 @@
    [[main]]
         identifier = "inscrieri"
         parent = "Oferta"
-        name = "Înscrieri clasa pregătitoare"
+        name = "Clasa pregătitoare"
         pageRef = "/Oferta/01_Inscrieri"
         weight = 1
     [[main]]
@@ -169,13 +169,13 @@
     [[main]]
         identifier = "Olimpiade"
         parent = "Rezultate"
-        name = "Olimpiade"
-        pageRef = "/Rezultate/01_Olimpiade"
+        name = "Rezultate meritorii"
+        pageRef = "/Rezultate/01_Rezultate"
         weight = 1
     [[main]]
         identifier = "Concursuri"
         parent = "Rezultate"
-        name = "Concursuri"
+        name = "Olimpiade și concursuri"
         pageRef = "/Rezultate/02_Concursuri"
         weight = 2
 [[main]]
@@ -197,7 +197,7 @@
     [[main]]
         identifier = "Săptămâna verde"
         parent = "Activități"
-        name = "Săptămâna verde"
+        name = "Săptămâna Verde"
         pageRef = "/Activitati/02_Verde"
         weight = 2
     [[main]]
@@ -212,3 +212,8 @@
         name = "Școala Încrederii"
         pageRef = "/Activitati/03_Increderii"
         weight = 4
+ [[main]]
+ identifier = "Anunțuri"
+    name = "Anunțuri"
+    pageRef = "/anunturi"
+    weight = 80

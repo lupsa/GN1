@@ -1,7 +1,7 @@
 ---
 title: "Echipa managerială:"
 ---
-**COMPONENȚA CONSILIULUI DE ADMINISTRAȚIE A ȘCOLII GIMNAZIALE NR.1 BISTRIȚA**
+**COMPONENȚA CONSILIULUI DE ADMINISTRAȚIE A ȘCOLII GIMNAZIALE NR. 1 BISTRIȚA**
 &nbsp;
 &nbsp;
 - ##### Director: prof. Ancuța-Ioana MIHAIU - președinte;
@@ -16,7 +16,7 @@ title: "Echipa managerială:"
   
 - ##### Laurean Radu BRIA  - membru, președinte Asociația de părinți;
 
-- ##### Adriana ANTONEAC - membru reprezentant Asociația de părinți;
+- ##### Adriana ANTONEAC - membru, reprezentant Asociația de părinți;
 
 - ##### Cristina CUDREC - membru, reprezentant Asociația de părinți;
 
@@ -42,11 +42,12 @@ title: "Echipa managerială:"
 
 - program audiențe: Luni; între orele 12.00 - 14.00
 &nbsp;
+&nbsp;
 
 **Director adjunct: Prof. Moraru Dana-Elena**
 &nbsp;
 
-- program audiențe: Marți; între orele 12.00 - 14.00
+- program audiențe: Miercuri; între orele 12.00 - 14.00
 
 &nbsp;
 &nbsp;

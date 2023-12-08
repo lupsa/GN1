@@ -1,4 +1,7 @@
 ---
-title: "Rezultate olimpiade și concursuri elevi"
+title: "Olimpiade si concursuri"
 ---
-Rezultate olimpiade și concursuri elevi
+Olimpiade și concursuri 
+
+
+se completeaza cand au loc - ani / discipline etc

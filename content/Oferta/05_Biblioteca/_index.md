@@ -1,5 +1,5 @@
 ---
-title: "Biblioteca GN1"
+title: "Biblioteca GENE1"
 ---
 
 *“A construi o bibliotecă înseamnă a crea o viață. Biblioteca nu va fi niciodată o colecție întâmplătoare de cărți. Fără biblioteci, nu există civilizație”* - **Carlos María Domínguez**
