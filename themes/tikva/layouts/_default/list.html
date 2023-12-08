@@ -9,9 +9,7 @@
         {{.Content}}
     </article>
 
-    {{ $pages := where .Site.RegularPages "Type" "in" .Site.Params.mainSections }}
-
-    {{ $paginator := .Paginate ($pages) -}}
+    {{ $paginator := .Paginate .Pages -}}
     {{ range $paginator.Pages -}}
         {{ .Render "summary"}}
     {{ end -}}

@@ -12,8 +12,7 @@ mainSections  = ["homepage"]
 # Navigation bar settings
 
 [author]
-name = "Florin Munteanu"
-email = ""
+    name = "Florin Munteanu"
 
 [navbar]
     style = "header" # Navigation bar style, values "fixed-top" or "header", default is fixed-top 

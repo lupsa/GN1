@@ -17,8 +17,6 @@
 {{ if .Site.Params.Favicon }}
 <link rel="icon" type="image/x-icon" href="{{ .Site.BaseURL }}{{ .Site.Params.Favicon }}" />
 {{ end }}
-{{ template "_internal/opengraph.html" . }}
-{{ template "_internal/schema.html" . }}
 
 <script type="text/javascript">
     var azbalacSettingHeaderMoveTitle = '{{ .Site.Params.Theme.Header.MoveTitle }}';

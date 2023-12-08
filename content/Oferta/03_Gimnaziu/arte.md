@@ -1,9 +1,9 @@
 ---
 title: "Arte"
-type: 03_Gimnaziu
 date: 2023-05-20T18:09:30+00:00
 slug: 03_Gimnaziu
 ---
+
 CATEDRA DE EDUCAŢIE PLASTICĂ
 
 ***„Artistul vede ceea ce alții pot abia întrezări”*** **Leonardo da Vinci**
