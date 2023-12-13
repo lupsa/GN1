@@ -46,10 +46,3 @@ Participarea la simpozioane, mese rotunde, conceperea și desfășurarea unor pa
 
 &nbsp; **"Educația este ceea ce supraviețuiește după ce tot ce a fost învățat a fost uitat"**. *(Burrhus Frederic Skinner)*
 
-
-
-
-
-
-
- &nbsp; Responsabil Comisie Metodică Învățători, Prof. *Salanță Daniela*

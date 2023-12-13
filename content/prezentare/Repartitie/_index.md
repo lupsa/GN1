@@ -1,17 +1,6 @@
 ---
-title: "Repartitie"
+title: "Reparția claselor - an școlar 2023-2024"
 ---
-Profesori repartitie ....
 
 
-se trec clasele 2023-2024 
-
-clasa invatatori  / diriginte
-
-
-
-
-| Syntax      | Description | trecut ceva |
-| ----------- | ----------- |------------ |
-| Header      | Title       | clasa       |
-| Paragraph   | Text        | altceva     |
+{{< embed-pdf url="diriginti-invatatori_2023.pdf"  >}}

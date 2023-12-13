@@ -1,7 +1,8 @@
 ---
-title: "CDȘ"
+title: "Curriculum la Decizia Școlii"
 ---
 
 
-lista optionale 2023-2024
+#### **În anul școlar 2023-2024 se derulează următoarele cursuri opționale:**
 
+{{< embed-pdf url="optionale-2023.pdf"  >}}

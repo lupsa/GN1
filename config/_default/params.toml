@@ -4,7 +4,7 @@ favicon = 'img/favicon/favicon.ico' # Add favicon, default empty
 #subtitle = "Example of Subtitle"
 
 dateFormat = ":date_long" # Format date with Hugo date format https://gohugo.io/functions/dateformat/
-showDate = true # true|false: Show date on summaries. This is a global setting. If the date should be shown, you have to add a "date" parameter to the content files, otherwise the default value will be used, which is something you don't want.
+showDate = false # true|false: Show date on summaries. This is a global setting. If the date should be shown, you have to add a "date" parameter to the content files, otherwise the default value will be used, which is something you don't want.
 showNumberOfWords = false # true|false: Show number of word on article header of single content page
 hideMeta = false # Hide meta information on single pages
 mainSections  = ["homepage"]
@@ -12,7 +12,7 @@ mainSections  = ["homepage"]
 # Navigation bar settings
 
 [author]
-    name = "Florin Munteanu"
+   # name = "Florin Munteanu"
 
 [navbar]
     style = "header" # Navigation bar style, values "fixed-top" or "header", default is fixed-top 

@@ -32,7 +32,7 @@ Aceste lucruri au putut fi posibile grație unei echipe de profesori dedicați c
 
 Povestea merge mai departe…
 
-Cuvinte-cheie: creativitate, libertate, opinii, comunicare, optimism, cooperare, sensibilitate, inspirație.
+Cuvinte-cheie: **creativitate, libertate, opinii, comunicare, optimism, cooperare, sensibilitate, inspirație**.
 
-Prof. *Cristina Trombitaș* 
+
 

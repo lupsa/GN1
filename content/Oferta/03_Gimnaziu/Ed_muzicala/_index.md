@@ -10,17 +10,7 @@ type: 03_Gimnaziu
 
 Câteodată avem norocul să descoperim o super muzică. Una care ne place foarte, foarte mult. Simțim că ne dă aripi, că ne însuflețește, că ne face să ne simțim extraordinar. Sau câteodată simțim nevoia să fim singuri cu muzica noastră preferată… Oricum ar fi muzica joacă un rol în viața noastră. Și asta nu poate fi negat. Și dacă face parte din viața noastră, înseamnă că-și găsește locul și în postările noastre de pe social media, de pe Facebook sau Instagram.
 
-**De-a lungul timpului au activat la catedră:**
-
-&nbsp;*Prof. **Ghingheli Angela**, grad didactic I;*
-
-&nbsp;*Prof. **Ciovernache Mariana**, grad didactic I;*
-
-&nbsp;*Prof. **Zaig Richard**, grad didactic I;*
-
-&nbsp;*Prof. **Sucilă Lidia**, grad didactic I;*
-
-&nbsp;*Prof. **Nigel Maria**, grad didactic I;*
+**De-a lungul timpului au activat la catedră profesorii:** Ghingheli Angela, Ciovernache Mariana, Zaig Richard, Sucilă Lidia, Boncea Flaviu, Nigel Maria.
 
 Muzica, alături de alte obiecte de învăţământ, aduce o importantă contribuţie la realizarea educaţiei estetice a elevilor, în sensul dezvoltării capacităţii lor de a înţelege frumosul din artă, a-l însuşi şi a-l aplica în viaţa de zi cu zi. În acest sens, scopul predării muzicii în şcoala gimnazială constă în dezvoltarea gustului estetic al tuturor elevilor indiferent de gradul lor de dotare muzicală, precum şi dezvoltarea, într-un anumit grad, a culturii muzicale a acestora.
 
