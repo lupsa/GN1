@@ -108,57 +108,63 @@
         name = "Cabinet logopedie"
         pageRef = "/oferta/07_Logoped"
         weight= 7
+     [[main]]
+        identifier = "sprijin"
+        parent = "Oferta"
+        name = "Cabinet de sprijin"
+        pageRef = "/oferta/08_Sprijin"
+        weight= 8
     [[main]]
         identifier = "medic"
         parent = "Oferta"
         name = "Cabinet medical"
-        pageRef = "/oferta/08_Medic"
-        weight= 8
+        pageRef = "/oferta/09_Medic"
+        weight= 9
     [[main]]
         identifier = "secretariat"
         parent = "Oferta"
         name = "Secretariat"
-        pageRef = "/oferta/09_Secretariat"
-        weight= 9
+        pageRef = "/oferta/10_Secretariat"
+        weight= 10
     [[main]]
         identifier = "Administrativ-Contabilitate"
         parent = "Oferta"
         name = "Administrativ-Contabilitate"
-        pageRef = "/oferta/10_Administrativ-Conta"
-        weight= 10
+        pageRef = "/oferta/11_Administrativ-Conta"
+        weight= 11
     [[main]]
         identifier = "Asociația părintilor"
         parent = "Oferta"
         name = "Asociația Părinților"
-        pageRef = "/Oferta/11_Parinti"
-        weight = 11   
+        pageRef = "/Oferta/12_Parinti"
+        weight = 12   
 [[main]]
     identifier = "Examene"
     name = "Examene"
     pageRef = "/Examene"
     weight = 40
     [[main]]
-        identifier = "Evaluări - 0246"
+        identifier = "Evaluare Națională-0246"
         parent = "Examene"
-        name = "Evaluări - 0246"
-        pageRef = "/Examene/01_Evaluari-0246"
+        name = "Evaluare Națională - 0246"
+        pageRef = "/Examene/01_EN-0246"
         weight = 1
     [[main]]
         identifier = "Evaluare Natațională"
         parent = "Examene"
-        name = "Evaluare națională - 2024"
+        name = "Evaluare Națională - 2024"
         pageRef = "/Examene/02_EvNat-08"
         weight = 2
     [[main]]
         identifier = "Simulari"
         parent = "Examene"
-        name = "Simulari examene"
+        name = "Simulari examene naționale"
         pageRef = "/Examene/03_Simulari"
         weight = 3
      [[main]]
         identifier = "Admitere"
         parent = "Examene"
-        name = "Admitere"
+        name = "Admitere 2024"
         pageRef = "/Examene/04_Admitere"
         weight = 4
 [[main]]
@@ -183,6 +189,25 @@
     name = "Reviste"
     pageRef = "/Reviste"
     weight = 60
+    [[main]]
+        identifier = "Revista InGEN1um"
+        parent = "Reviste"
+        name = "Revista InGEN1um"
+        pageRef = "/Reviste/InGEN1um"
+        weight = 1
+    [[main]]
+        identifier = "Revista Scientia Naturalis"
+        parent = "Reviste"
+        name = "Revista Scientia Naturalis"
+        pageRef = "/Reviste/ScientiaNaturalis"
+        weight = 2
+    [[main]]
+        identifier = "Revista Planeta Școala"
+        parent = "Reviste"
+        name = "Revista Planeta Școala"
+        pageRef = "/Reviste/PlanetaScoala"
+        weight = 3
+    
 [[main]]
     identifier = "Activități"
     name = "Activități"
@@ -215,5 +240,5 @@
  [[main]]
  identifier = "Anunțuri"
     name = "Anunțuri"
-    pageRef = "/anunturi"
+    pageRef = "/Anunturi"
     weight = 80

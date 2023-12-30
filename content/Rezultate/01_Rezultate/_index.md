@@ -1,6 +1,9 @@
 ---
-title: "Rezultate Olimpiade"
+title: "Rezultate meritorii"
 ---
-Rezultate Olimpiade
 
-Rezultate meritorii (de adus liste din anii precedenti ... de vazut)
+
+### Rezultate la olimpiade și concursuri școlare în anul școlar 2022-2023:
+
+{{< embed-pdf url="olimpici_2022-2023.pdf"  >}}
+
