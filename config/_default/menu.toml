@@ -9,57 +9,57 @@
     pageRef = "/"
     weight = 10
 [[main]]
-    identifier = "prezentare"
+    identifier = "Prezentare"
     name = "Prezentare"
-    pageRef = "/prezentare"
+    pageRef = "/Prezentare"
     weight = 20
      [[main]]
         identifier = "Istoric"
-        parent = "prezentare"
+        parent = "Prezentare"
         name = "Scurt Istoric"
-        pageRef = "/prezentare/Istoric"
+        pageRef = "/Prezentare/Istoric"
         weight = 1
     [[main]]
         identifier = "echipa"
-        parent = "prezentare"
+        parent = "Prezentare"
         name = "Echipa"
-        pageRef = "/prezentare/echipa"
+        pageRef = "/Prezentare/echipa"
         weight = 2
     [[main]]
         identifier = "contact"
-        parent = "prezentare"
+        parent = "Prezentare"
         name = "Contact"
-        pageRef = "/prezentare/contact"
+        pageRef = "/Prezentare/contact"
         weight = 3
      [[main]]
         identifier = "Orar"
-        parent = "prezentare"
+        parent = "Prezentare"
         name = "Orar"
-        pageRef = "/prezentare/Orar"
+        pageRef = "/Prezentare/Orar"
         weight = 4
     [[main]]
         identifier = "Repartitie"
-        parent = "prezentare"
+        parent = "Prezentare"
         name = "Repartitia claselor"
-        pageRef = "/prezentare/Repartitie"
+        pageRef = "/Prezentare/Repartitie"
         weight = 5
     [[main]]
         identifier = "documente"
-        parent = "prezentare"
+        parent = "Prezentare"
         name = "Documente publice"
-        pageRef = "/prezentare/Documente"
+        pageRef = "/Prezentare/Documente"
         weight = 6
     [[main]]
         identifier = "CEAC"
-        parent = "prezentare"
+        parent = "Prezentare"
         name = "CEAC"
-        pageRef = "/prezentare/CEAC"
+        pageRef = "/Prezentare/CEAC"
         weight = 7
     [[main]]
         identifier = "50-Ani"
-        parent = "prezentare"
+        parent = "Prezentare"
         name = "Aniversare 50 Ani"
-        pageRef = "/prezentare/50-Ani"
+        pageRef = "/Prezentare/50-Ani"
         weight = 8
 [[main]]
     identifier = "Oferta"
@@ -185,29 +185,28 @@
         pageRef = "/Rezultate/02_Concursuri"
         weight = 2
 [[main]]
-    identifier = "Reviste și publicații"
+    identifier = "Reviste si publicatii"
     name = "Reviste"
     pageRef = "/Reviste"
     weight = 60
     [[main]]
         identifier = "Revista InGEN1um"
-        parent = "Reviste"
+        parent = "Reviste si publicatii"
         name = "Revista InGEN1um"
         pageRef = "/Reviste/InGEN1um"
         weight = 1
     [[main]]
         identifier = "Revista Scientia Naturalis"
-        parent = "Reviste"
+        parent = "Reviste si publicatii"
         name = "Revista Scientia Naturalis"
         pageRef = "/Reviste/ScientiaNaturalis"
         weight = 2
     [[main]]
         identifier = "Revista Planeta Școala"
-        parent = "Reviste"
+        parent = "Reviste si publicatii"
         name = "Revista Planeta Școala"
         pageRef = "/Reviste/PlanetaScoala"
         weight = 3
-    
 [[main]]
     identifier = "Activități"
     name = "Activități"
@@ -242,3 +241,8 @@
     name = "Anunțuri"
     pageRef = "/Anunturi"
     weight = 80
+ [[main]]
+ identifier = "Galerie"
+    name = "Galerie"
+    pageRef = "/Galerie"
+    weight = 90
