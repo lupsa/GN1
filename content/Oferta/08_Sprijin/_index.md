@@ -2,7 +2,7 @@
 title: "Catedra de învățământ special integrat"
 ---
  
-***,,Să nu-i educăm pe copiii noştri pentru lumea de azi. Această lume nu va mai exista când ei vor fi mari şi nimic nu ne permite să ştim cum va fi lumea lor. Atunci să-i învăţăm să se adapteze".*** *(Maria Montessori)*
+***"Să nu-i educăm pe copiii noştri pentru lumea de azi. Această lume nu va mai exista când ei vor fi mari şi nimic nu ne permite să ştim cum va fi lumea lor. Atunci să-i învăţăm să se adapteze".*** *(Maria Montessori)*
 
 Scopul educaţiei speciale şi special integrate este învăţarea, educarea, recuperarea, adaptarea şi integrarea şcolară a elevilor cu cerinţe educaţionale speciale.
 Activităţile de învăţare, stimulare, compensare şi recuperare sunt desfăşurate de cadre didactice de sprijin calificate, specializate şi devotate activităţii de învăţământ cu copiii care prezintă cerinţe educaţionale speciale.

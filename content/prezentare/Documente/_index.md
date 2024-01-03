@@ -20,6 +20,21 @@ title: "Documente de interes public"
 {.mt-3}
 {.mt-3}
 
+
+## Documente contabile
+
+ {.mt-3}
+
+- {{< files path="content/prezentare/Documente/buget_2023" pathURL="buget_2023/" >}}
+ {.mt-3}
+- {{< files path="content/prezentare/Documente/buget_2022" pathURL="buget_2022/" >}}
+{.mt-3}
+- {{< files path="content/prezentare/Documente/buget_2021" pathURL="buget_2021/" >}}
+{.mt-3}
+- {{< files path="content/prezentare/Documente/buget_2020" pathURL="buget_2020/" >}}
+{.mt-3}
+{.mt-3}
+
 ## Venituri brute
 
 {.mt-3}
@@ -27,24 +42,6 @@ title: "Documente de interes public"
 - {{< files path="content/prezentare/Documente/venituri" pathURL="venituri/" >}}
 
 {.mt-3}
-
-## Documente contabile
-
-{.mt-3}
-
-- {{< files path="content/prezentare/Documente/buget_2020" pathURL="buget_2020/" >}}
-
-{.mt-3}
- {.mt-3}
-
-- {{< files path="content/prezentare/Documente/buget_2021" pathURL="buget_2021/" >}}
- {.mt-3}
-
-- {{< files path="content/prezentare/Documente/buget_2022" pathURL="buget_2022/" >}}
- {.mt-3}
-
-- {{< files path="content/prezentare/Documente/buget_2023" pathURL="buget_2023/" >}}
- {.mt-3}
 
 ## Declarații avere și de interes
 

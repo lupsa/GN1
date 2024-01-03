@@ -55,15 +55,21 @@
         name = "CEAC"
         pageRef = "/Prezentare/CEAC"
         weight = 7
+  [[main]]
+        identifier = "Regulamente"
+        parent = "Prezentare"
+        name = "Regulamentele școlii"
+        pageRef = "/Prezentare/Regulamente"
+        weight = 8
     [[main]]
         identifier = "50-Ani"
         parent = "Prezentare"
         name = "Aniversare 50 Ani"
         pageRef = "/Prezentare/50-Ani"
-        weight = 8
+        weight = 9
 [[main]]
     identifier = "Oferta"
-    name = "Oferta"
+    name = "Oferta școlii"
     pageRef = "/Oferta"
     weight = 30
    [[main]]
@@ -186,7 +192,7 @@
         weight = 2
 [[main]]
     identifier = "Reviste si publicatii"
-    name = "Reviste"
+    name = "Reviste și publicații"
     pageRef = "/Reviste"
     weight = 60
     [[main]]
@@ -202,11 +208,17 @@
         pageRef = "/Reviste/ScientiaNaturalis"
         weight = 2
     [[main]]
+        identifier = "Cultură și civilizație la Bistrița"
+        parent = "Reviste si publicatii"
+        name = "Cultură și civilizație la Bistrița"
+        pageRef = "/Reviste/Cultura"
+        weight = 3
+    [[main]]
         identifier = "Revista Planeta Școala"
         parent = "Reviste si publicatii"
         name = "Revista Planeta Școala"
         pageRef = "/Reviste/PlanetaScoala"
-        weight = 3
+        weight = 4
 [[main]]
     identifier = "Activități"
     name = "Activități"
