@@ -5,7 +5,7 @@ title: "Catedra de Educație plastică"
 
 
 
-*„Artistul vede ceea ce alții pot abia întrezări”* - ***(Leonardo da Vinci)***
+**„Artistul vede ceea ce alții pot abia întrezări”** - *(Leonardo da Vinci)*
 
 Școala Gimnazială Nr. 1 oferă elevilor săi un cadru adecvat desfășurării orelor de educație plastică, clase mari cu mobilier ergonomic, aparatură de proiecție a imaginilor și o bibliotecă cu un număr mare de cărți și albume de specialitate. Toate acestea au suferit o îmbunătățire substanțială în decursul celor 60 de ani de când ființează școala cu o modernizare și o aliniere la cerințele predării artistice din anii 2000.
 

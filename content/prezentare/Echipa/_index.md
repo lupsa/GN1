@@ -1,7 +1,17 @@
 ---
-title: "Echipa managerială:"
+title: "Echipa managerială"
 ---
-**COMPONENȚA CONSILIULUI DE ADMINISTRAȚIE A ȘCOLII GIMNAZIALE NR. 1 BISTRIȚA**
+
+- ##### Director: prof. Ancuța-Ioana MIHAIU;
+
+- ##### Director adjunct: prof. Elena-Dana MORARU;
+
+- ##### Coordonator proiecte educaționale: prof.  Anamaria-Aurora TOFAN;
+
+&nbsp;
+- 
+
+**COMPONENȚA CONSILIULUI DE ADMINISTRAȚIE A ȘCOLII GIMNAZIALE NR. 1 BISTRIȚA:**
 &nbsp;
 &nbsp;
 - ##### Director: prof. Ancuța-Ioana MIHAIU - președinte;

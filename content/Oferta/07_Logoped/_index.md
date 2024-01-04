@@ -17,6 +17,6 @@ title: "Cabinet logopedie"
 • Corectarea şi recuperarea tulburărilor de pronunţie prin aplicarea unor programe de intervenţie personalizată; 
 • Evaluarea psihopedagogică, programe educaţionale şi terapeutic-recuperatorii individualizate pentru copiii cu dificultăţi de însuşire a citit-scrisului; 
 
-Recomandarea logopedului: intervenţia logopedică este de preferat să se realizeze încă din grădiniţă, moment în care are loc structurarea şi dezvoltarea limbajului, evitându-se formarea şi consolidarea unor deprinderi greşite de vorbire sau chiar întârzieri în evoluţia firească a limbajului. 
+Recomandarea logopedului: intervenţia logopedică este de preferat să se realizeze încă din grădiniţă, moment în care are loc structurarea şi dezvoltarea limbajului, evitându-se formarea şi consolidarea unor deprinderi greşite de vorbire sau chiar întârzieri în evoluţia firească a limbajului.
 
-**Logoped**, ***Liviu Cotuţiu***
+În şcoala noastră activitatea specifică de intervenţie logopedică este realizată de domnul logoped Liviu Cotuţiu.

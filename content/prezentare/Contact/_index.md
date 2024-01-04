@@ -1,5 +1,5 @@
 ---
-title: "Contact"
+title: "Date de contact"
 ---
 
 **ȘCOALA GIMNAZIALĂ NR.1 BISTRIȚA**

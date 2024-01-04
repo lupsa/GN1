@@ -1,19 +1,16 @@
 ---
-title: "Biblioteca GENE1"
+title: "Biblioteca"
 ---
 
-*“A construi o bibliotecă înseamnă a crea o viață. Biblioteca nu va fi niciodată o colecție întâmplătoare de cărți. Fără biblioteci, nu există civilizație”* - **Carlos María Domínguez**
+**“A construi o bibliotecă înseamnă a crea o viață. Biblioteca nu va fi niciodată o colecție întâmplătoare de cărți. Fără biblioteci, nu există civilizație”** - *Carlos María Domínguez*
 
 Biblioteca școlară este compartimentul specializat al cărui scop principal este de a constitui, a organiza, a prelucra cărți, publicații periodice, alte documente specifice si baze de date, pentru a facilita utilizarea acestora de către beneficiari in scop de informare, cercetare, educație sau recreere (ORDIN nr. 5.556 din 7 octombrie 2011).
 
-Biblioteca reprezintă pentru școală o carte de vizită. Ea cuprinde un număr de 14928 volume, structurate după Clasificarea Zecimală Universală, asigură baza documentară și de informații necesare procesului de învățământ, la nivelul aprofundării studiului, realizează valorificarea şi comunicarea documentelor şi surselor de informații, facilitează accesul rapid la diverse categorii de surse, organizează un sistem de servicii pentru toate categoriile de utilizatori. Se oferă cărți din bibliografia școlară, lucrări de referință, cărți pentru copii, beletristică, literatură universală, publicații adresate tuturor disciplinelor școlare
-
-Biblioteca reprezintă unul dintre spațiile cele mai importante din școală, întrucât contribuie la apropierea elevilor de lectură şi sprijină cadrele didactice în reușita actului educațional.
+Biblioteca reprezintă pentru școală o carte de vizită. Ea reprezintă unul dintre spațiile cele mai importante din școală, întrucât contribuie la apropierea elevilor de lectură şi sprijină cadrele didactice în reușita actului educațional.
 
 ![](1a.jpg) ![](1b.jpg)
 {.text-center}
 
-Este o practică obișnuită a bibliotecii organizarea de expoziții aniversare, ocazii de readucere în memoria cititorilor a scriitorilor importanți din literatura și cultura română, activități care marchează evenimentele majore anuale, cum ar fi: Octombrie – Luna Internațională a Bibliotecilor Școlare, , 1 Decembrie – Ziua Națională a României, Ziua Culturii Naționale – Ziua Luceafărului Poeziei Românești, 1 Februarie – Ziua Internațională a Cititului Împreună ș.a.
 
 Deși internetul și activitățile on-line reprezintă o provocare a lumii moderne, biblioteca rămâne o constantă culturală, un simbol al profunzimii spirituale.
 
@@ -30,9 +27,13 @@ Vom citi cărți și în format clasic și în format electronic. Nu suntem obli
 
 **Lectura** nu are vârstă, *„fiecare carte pare că închide în ea un suflet. Și, cum o atingi cu ochii si mintea, sufletul ți se deschide ca un prieten bun.”* - **Maxim Gorki**.
 
+Biblioteca şcolii noastre cuprinde un număr de 14928 volume, structurate după Clasificarea Zecimală Universală, asigură baza documentară și de informații necesare procesului de învățământ, la nivelul aprofundării studiului, realizează valorificarea şi comunicarea documentelor şi surselor de informații, facilitează accesul rapid la diverse categorii de surse, organizează un sistem de servicii pentru toate categoriile de utilizatori. Se oferă cărți din bibliografia școlară, lucrări de referință, cărți pentru copii, beletristică, literatură universală, publicații adresate tuturor disciplinelor școlare. Este o practică obișnuită a bibliotecii noastre organizarea de expoziții aniversare, ocazii de readucere în memoria cititorilor a scriitorilor importanți din literatura și cultura română, activități care marchează evenimentele majore anuale, cum ar fi: Octombrie – Luna Internațională a Bibliotecilor Școlare, 1 Decembrie – Ziua Națională a României, Ziua Culturii Naționale – Ziua Luceafărului Poeziei Românești, 1 Februarie – Ziua Internațională a Cititului Împreună ș.a.
+
+Activitatea bibliotecii din şcoala noastră este coordonată de doamna bibliotecară Bianca Bucşa.
+
 Indiferent de gusturile literare, lectura trebuie sa facă parte din viețile noastre deoarece prin intermediul ei reușim să ne lărgim perspectiva asupra lumii, ne sprijină dezvoltarea personală, ne hrănește spiritul și imaginația, ne motivează și ne încurajează întotdeauna, fiind alături de noi pe drumul vieții.
 
 ![](2a.jpg) ![](2b.jpg)
 {.text-center}
 
-*Bibliotecar:* **Prof**. *Bianca Maria Bucșa*
+

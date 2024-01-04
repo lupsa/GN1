@@ -1,5 +1,5 @@
 ---
-title: "Orarul - an școlar 2023-2024"
+title: "Orarul școlii în anul școlar 2023-2024"
 ---
 
 **PROGRAMUL UNITĂȚII:** *LUNI - VINERI 8.00 - 16.00* 

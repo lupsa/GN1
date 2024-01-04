@@ -22,7 +22,5 @@ Am insuflat permanent simțul responsabilității, al onestității, al omeniei,
 În vederea exersării celor mai bune metode de informare și învățare, catedra de geografie a realizat numeroase proiecte pentru disciplinele opționale, valoroase, cu obiective dintre cele mai importante și de actualitate pentru elevi, care s-au și bucurat de mult succes în școală : „Probleme fundamentale ale lumii contemporane”,  ”Bistrița – comunitatea noastră”, “Pieton în Bistrița”, “Călător prin Europa”. 
 Performanțele  pe care le realizăm an de an, spre bucuria elevilor, părinților, prestigiului școlii, ne-au motivat ca să ne multiplicăm eforturile, să menținem buna reputație de catedră foarte activă a Școlii Gimnaziale Nr. 1,  în care GEOGRAFIA înseamnă mult! 
 
-Catedra de geografie este formată din: prof. Măgerușan Adina și prof. Chiriac Livia.
-De-a lungul timpului, au pus umărul la prestigiul catedrei și al  școlii, următorii profesori: Bărbos Octavia, Feldrihan Olimpiu,
-Marcu Floare, Dochia Domnica, Artene Monica (Tanco), Arhip Lucia, Duicu Olivia, Roș Nicoleta, Iuhas Mihaela, Sigmirean Ion, Marica Nicolae,
-Chiciudean Alin, Mia Șigovan (director), Geta Lăpuște, Peter Adrian, Manea-Sion Ruxandra, Mureșan Cristina.
+Catedra de geografie este formată din: prof. Livia Chiriac,prof. Adina Măgerușanși prof. Cristina Mureșan.
+De-a lungul timpului, au pus umărul la prestigiul catedrei și al  școlii, următorii profesori: Lucia Arhip,  Monica Artene, Octavia Bărbos, Alin Chiciudean, Domnica Dochia, Olivia Duicu, Olimpiu Feldrihan, Mihaela Iuhas, Lăpuște Geta, Floarea Marcu, Nicolae Marica,Ruxandra Manea-Sion, Adrian Peter, Nicoleta Roș, Ion Sigmirean, Mia Șigovan (director).

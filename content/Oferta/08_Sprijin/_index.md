@@ -11,6 +11,8 @@ Parcurgerea conţinuturilor de învăţare pe perioada şcolară se realizează 
 Elevii participă la activitățile de învățare specifice învățământului de masă în clasele integratoare, beneficiind, după caz, de curriculum adaptat și/sau activități diferențiate și la activități de învățare la Centrul de resurse educaționale și Cabinetul de sprijin.
 Elevii care beneficiază de servicii de sprijin participă, de asemenea, împreună cu clasa integratoare la activităţi extracurriculare şi nonformale: vizite tematice, drumeţii, excursii, proiecte educaţionale și, individual, la concursuri şcolare și competiţii sportive pentru copiii cu cerințe educaționale speciale.
 
+# ALTĂ POZĂ
+
 {{< figure src="sprijin.png" title="" width="200px" class="text-center" >}}
 
 Școala Gimnazială Nr. 1 dispune de două cabinete de sprijin dotate și utilate corespunzător,care funcționează în corpul B, recent modernizat. Catedra de învăţământ special integrat funcţionează   cu două cadre didactice de sprijin: prof. înv. primar Ioana-Gabriela DRĂGUŞ, pentru învăţământul primar și prof. Anamaria PUȘCAȘ, pentru învăţământul secundar inferior.

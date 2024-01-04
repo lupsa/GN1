@@ -2,8 +2,6 @@
 title: "Învățământ primar"
 ---
 
-*PRIVIRE DE ANSAMBLU ASUPRA ACTIVITĂȚILOR DESFĂȘURATE ÎN ANII ȘCOLARI 2018-2023 LA CLASELE PRIMARE ÎN ȘCOALA GIMNAZIALĂ NR.1 BISTRIȚA*
-
 &nbsp; Școala Gimnazială Nr.1 Bistrița a fost întotdeauna un gigant școlar, căutată de elevi și părinți, pentru că aici CALITATEA este la ea acasă - e un deziderat care se transmite din generație în generație, e ethos organizațional. Pentru cei mai mulți dintre noi școala absolvită lasă o amprentă clară și rămâne de-a lungul vieții un punct de reper, un tărâm al tumultului de tinerețe și entuziasm care răzbate în timp și peste timpuri.
 
 
@@ -12,6 +10,11 @@ title: "Învățământ primar"
 
 &nbsp; Seriozitatea, perseverența, dăruirea, profesionalismul, implicarea, spiritul de competiție, capacitatea de empatie sunt doar o parte dintre însușirile care îi caracterizează pe dascălii noștri.
 Afirmarea performanței este pentru noi o asumare a unei tradiții, fapt realizat prin făurirea și păstrarea unui prestigiu, prin credința în reușită și mai ales prin statornicie. Am creat un spațiu al misiunii asumate, al viziunii dovedite, în care se construiește cu responsabilitate un destin, destinul acestei școli, cu cadre didactice deosebite și cu minunați elevi.
+
+&nbsp; De-a lungul timpului și-au adus contribuția valoroasă cadre didactice de un înalt profesionalism:
+Anuță Maria, Bodescu Narcisa, Buta Eugenia, Buta Valeria,  Candale Lucia, Câmpan Gavrilă, Câmpean Letiția, Ceoarec Dorina, Chereja Florica, Cheța Olimpia, Chezan Angela, Chifa Aurelia, Chița Aristina, Condrate Lucreția, Cordo Elisabeta, Cosma Ana, Cotoc Maria, Dreptate Lucia,  Gall Aranka, Georgiu Valeria, Gherasim Violeta, Hădărau Codruța,  Ilie Maria, Lucas Aurica, Măierean Ana, Măjeri Tatiana, Mizgan Floarea, Monda Mia, Morar Ana, Neagoș Valeria, Negrușeri Varvara, Ormenișan Lucia, Petrina Marioara, Petruț Jenica,  Pintea Maria, Pop Liana,  Pop Verginia, Șanta Cătălina, Săsărman Monica, Socaciu Antonia, Solomon Anuța,  Sziki Rodica, Talo Alina, Tâmpănaru Mărioara, Tătar Florica, Todora Irina, Vancea Leontina, Vlașin Doina. 
+
+&nbsp; Astăzi, activitatea didactică este susținută cu măiestrie de către dnele profesoare: Androne Floarea, Berbecar Liliana, Berbunschi Florina, Brumă Emilia, Cătuna Doris, Dărăban Alina, Deneș Maria, Filip Elisabeta, Hoha Andreea, Lupoaie Ionela, Matean Liana, Mărginean Adriana,  Mânzat Daniela, Miron Rebeca, Moldovan Crina, Moldovan Marcela, Munteanu Raluca, Năsăudean Ionela, Pampa Andreea, Păcurar-Toma Daniela, Pătraș Cosmina, Petri Alina, Pop Carmen,  Pop Leontina, Pop Oana, Sămărtinean Andreea, Rusu Irina, Salanță Daniela, Scridon Corneluța, Stupinean Marta,  Suciu-Pralea Daniela,  Șuteu Sabina, Telcean Dorina, Titieni Corina, Todea Monia, Toma Nicoleta, Țarcă Sofia,  Vamanu Lenuța,  Vântu Maria, Vlasin Florina.
 
 &nbsp;Învățarea centrată pe elev a făcut ca fiecare dintre noi să concepem și să desfășurăm activități de învățare în concordanță cu particularitățile individuale, dar și cu cerințele standard.
 Pentru ca motivația să existe din toate punctele de vedere, fiecare învățător a amenajat spațiul de lucru respectând ambientul corespunzător, vizând un aspect informativ, formativ, estetic, toate acestea facilitând diversificarea formelor de organizare a instruirii conform particularităților de vârstă și individuale.
@@ -35,11 +38,11 @@ Pentru ca motivația să existe din toate punctele de vedere, fiecare învăță
 {{< figure src="2a-c.png" title="Școala de vară AMmA" width="400px" class="text-center" >}}
 Participarea la simpozioane, mese rotunde, conceperea și desfășurarea unor parteneriate educaționale au constituit mijloace eficiente de formare continuă. Educația rămâne metodă și principiu, reprezintă creșterea intelectuală și morală, este autodevenire, este sistem de valori, este mod de gândire, este gen de viață, este devenire și înălțare. Educația este un sistem grație căruia omul și umanitatea pot să crească sau să se autodepășească. Educația dată de școală rămâne ceva specific și esențial.
 
-{{< figure src="3d.png" title="Activități" width="300px" class="text-center" >}}
+{{< figure src="3d.png" title="" width="300px" class="text-center" >}}
 
  &nbsp; Dăruirea, seriozitatea, perseverența, profesionalismul, dragostea pentru copii și profesie sunt atributele dascălilor care predau în învățământul primar.
 
-{{< figure src="3s.png" title="Activități" width="300px" class="text-center" >}}
+{{< figure src="3s.png" title="" width="300px" class="text-center" >}}
 
  &nbsp; Pentru îmbunătățirea calității  activității didactice, pentru ca o școală să fie eficientă, este necesar ca elevii, dascălii și părinții să aibă foarte bine conștientizată misiunea comună, iar activitatea didactică să fie mai mult centrată  pe elev.
 

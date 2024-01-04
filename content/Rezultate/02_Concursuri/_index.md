@@ -1,4 +1,4 @@
 ---
-title: "Rezultate concursuri elevi"
+title: "Olimpiade și concursuri elevi"
 ---
-Rezultate concursuri elevi
+Olimpiade și concursuri ce se desfășoară in școală

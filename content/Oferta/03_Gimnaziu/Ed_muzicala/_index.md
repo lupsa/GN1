@@ -4,13 +4,14 @@ type: 03_Gimnaziu
 #date: 2023-05-20T18:09:30+00:00
 #slug: 03_Gimnaziu
 ---
-{{< figure src="muzica1.png" title=""  class="text-right" >}}
 
 **"Viaţa e o melodie frumoasă, doar versurile sunt foarte încurcate…"** – *Hans Christian Andersen*
 
+{{< figure src="muzica1.png" title="imagine mica"  class="floatright" >}}
+
 Câteodată avem norocul să descoperim o super muzică. Una care ne place foarte, foarte mult. Simțim că ne dă aripi, că ne însuflețește, că ne face să ne simțim extraordinar. Sau câteodată simțim nevoia să fim singuri cu muzica noastră preferată… Oricum ar fi muzica joacă un rol în viața noastră. Și asta nu poate fi negat. Și dacă face parte din viața noastră, înseamnă că-și găsește locul și în postările noastre de pe social media, de pe Facebook sau Instagram.
 
-**De-a lungul timpului au activat la catedră profesorii:** Ghingheli Angela, Ciovernache Mariana, Zaig Richard, Sucilă Lidia, Boncea Flaviu, Nigel Maria.
+**De-a lungul timpului au activat la catedră profesorii:** Flaviu Boncea, Mariana Ciovernache, Angela Ghingheli, Lidia Sucilă, Maria Nigel, Richarg Zaig.
 
 Muzica, alături de alte obiecte de învăţământ, aduce o importantă contribuţie la realizarea educaţiei estetice a elevilor, în sensul dezvoltării capacităţii lor de a înţelege frumosul din artă, a-l însuşi şi a-l aplica în viaţa de zi cu zi. În acest sens, scopul predării muzicii în şcoala gimnazială constă în dezvoltarea gustului estetic al tuturor elevilor indiferent de gradul lor de dotare muzicală, precum şi dezvoltarea, într-un anumit grad, a culturii muzicale a acestora.
 
@@ -27,5 +28,6 @@ Cu grupurile vocale care au activat de-a lungul timpului sub coordonarea profeso
 - Începând cu anul 2014 am implementat la orele de educație muzicală programul național "Ascultă 5 minute de muzică clasică";
 - Odată cu învățarea online am abordat la clasă utilizarea de softuri, aplicații muzicale (typatone.com, musicators, pian online, play xylo etc... ), wordwall, learning.apps;
 - Flautul drept (Blockflote) este instrumentul folosit la clasă tocmai pentru a fii mai ușoară și interesantă teoria muzicală;
-- Orele de educație muzicală sunt mereu însoțite de audiții/vizionări (video) prilej cu care elevii intră în contact cu interpretări celebre din toate genurile vocale, instrumentale, vocal-instrumentale;
-- În limita timpului disponibil participăm la concerte, la lecții demonstrative ale Fanfarei Cercului militar cu scopul de a aborda o ținută decentă și formarea unei culturi muzicale de calitate.
+  
+Orele de educație muzicală sunt mereu însoțite de audiții/vizionări (video) prilej cu care elevii intră în contact cu interpretări celebre din toate genurile vocale, instrumentale, vocal-instrumentale;
+În limita timpului disponibil participăm la concerte, la lecții demonstrative ale Fanfarei Cercului militar cu scopul de a aborda o ținută decentă și formarea unei culturi muzicale de calitate.
