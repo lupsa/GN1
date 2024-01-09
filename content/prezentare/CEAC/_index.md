@@ -1,14 +1,12 @@
 ---
 title: "CEAC"
 ---
+&ensp;
 
-- LINK-ru 
-- Raportul anual al Comisiei de Evaluare și Asigurare a Calității​
+<!--- This is an HTML comment in Markdown -->
 
--
-- Regulament CEAC
-- Strategie CEAC
-- Lista Proceduri CEAC
+{{< files path="content/prezentare/CEAC/pdf" pathURL="pdf/" >}}
+
 
 &ensp;
 
@@ -24,7 +22,9 @@ Acţiuni pentru dezvoltarea capacităţii instituţionale, de elaborare, planifi
 - Să îmbunătățească starea de bine a elevilor în toate activitățile asociate cu învățarea, derulate în școală, acasă sau în alte contexte și situații de învățare;
 - Să crească adaptarea școlară;
 - să medieze succesul şi integrarea școlară a tuturor copiilor aparținând categoriilor/grupurilor vulnerabile, prin asigurarea accesului la educație;
-- Să valorizeze colaborarea cu parteneri din comunitatea locală și din Europa. 
+- Să valorizeze colaborarea cu parteneri din comunitatea locală și din Europa.
+
+&ensp;
 
 **Valorile care ne ghidează activitatea sunt:**
 
@@ -35,22 +35,28 @@ Acţiuni pentru dezvoltarea capacităţii instituţionale, de elaborare, planifi
 - Implicarea;
 - Responsabilitatea
 
+&ensp;
+
 **Responsabilitățile CEAC la nivelul Școlii Gimnaziale NR. 1 Bistrița:**
 
 Comisia pentru Evaluarea şi Asigurarea Calității elaborează şi coordonează aplicarea procedurilor şi activităţilor de evaluare şi asigurare a calităţii, analizează rapoartele întocmite cu ocazia inspecţiilor generale şi tematice şi formulează propuneri de îmbunătăţire a calităţii educaţiei la nivelul unităţii de învăţământ. 
-Comisia pentru Evaluarea şi Asigurarea Calității colaborează cu ARACIIP, cu biroul judeţean pentru inspecţie şcolară şi asigurare a calităţii, cu Consiliul de administraţie, cu structurile asociative ale părinţilor, cu Consiliul şcolar al elevilor şi cu Consiliul profesoral al unităţii de învăţământ. 
+Comisia pentru Evaluarea şi Asigurarea Calității colaborează cu ARACIP, cu biroul judeţean pentru inspecţie şcolară şi asigurare a calităţii, cu Consiliul de administraţie, cu structurile asociative ale părinţilor, cu Consiliul şcolar al elevilor şi cu Consiliul profesoral al unităţii de învăţământ. 
+
+&ensp;
 
 **Atribuţiile Comisiei pentru Evaluarea şi Asigurarea Calității sunt:**
 
-a) coordonează aplicarea procedurilor şi activităţilor de evaluare şi asigurare a calităţii, aprobate de conducerea Școlii Gimnaziale NR. 1 Bistrița;
+a) coordonează aplicarea procedurilor şi activităţilor de evaluare şi asigurare a calităţii, aprobate de conducerea Școlii Gimnaziale Nr. 1 Bistrița;
 
-b) elaborează anual un raport de evaluare internă privind calitatea educaţiei în Școala Gimnazială NR. 1 Bistrița. Raportul anual de evaluare internă (RAEI) se validează de către Consiliul de administraţie, la propunerea coordonatorului comisiei, şi se prezintă, spre analiză, Consiliului profesoral. Raportul este adus la cunoştinţă tuturor beneficiarilor prin afişare sau publicare;
+b) elaborează anual un raport de evaluare internă privind calitatea educaţiei în Școala Gimnazială Nr. 1 Bistrița. Raportul anual de evaluare internă (RAEI) se validează de către Consiliul de administraţie, la propunerea coordonatorului comisiei, şi se prezintă, spre analiză, Consiliului profesoral. Raportul este adus la cunoştinţă tuturor beneficiarilor prin afişare sau publicare;
 
 c) elaborează o strategie care cuprinde cel puţin următoarele direcţii: rezultatele învăţării, reducerea analfabetismului funcţional, reducerea absenteismului, abandonului şcolar şi părăsirii timpurii a şcolii, precum şi promovarea excelenţei;
 
 d) formulează propuneri de îmbunătăţire a calităţii educaţiei.
 
 e) Membrii CEAC elaborează fişe şi instrumente de autoevaluare, reactualizează baza de date referitoare la asigurarea internă a calității, întocmesc rapoarte şi note de constatare şi propun măsuri corective şi preventive, participă la întocmirea documentelor de proiectare la nivelul comisiei și colectează dovezi pentru întocmirea raportului de autoevaluare.
+
+&ensp;
 
 **Procedura de culegerea datelor privind activitățile desfăşurate se va face prin:**
 
@@ -62,8 +68,8 @@ c) analiza rapoartelor catedrelor/comisiilor/compartimentelor din unitate și a 
 
 Evaluarea calităţii educaţiei în învăţământul preuniversitar constă în examinarea multicriterială a măsurii în care Școala Gimnazială NR. 1 Bistrița şi programele acesteia îndeplinesc standardele de calitate.
 
-Evaluarea internă a calităţii în învăţământul preuniversitar are loc atunci când evaluarea calităţii este efectuată de însăşi Școala Gimnazială NR. 1 Bistrița. Atunci când evaluarea calităţii este efectuată de ARACIIP, aceasta ia forma evaluării externe
+Evaluarea internă a calităţii în învăţământul preuniversitar are loc atunci când evaluarea calităţii este efectuată de însăşi Școala Gimnazială NR. 1 Bistrița. Atunci când evaluarea calităţii este efectuată de ARACIP, aceasta ia forma evaluării externe
 
-Îmbunătăţirea calităţii educaţiei presupune evaluare, analiză şi acţiune corectivă continuă din partea Școlii Gimnaziale NR. 1 Bistrița, bazată pe selectarea şi adoptarea celor mai potrivite proceduri, precum şi pe alegerea şi aplicarea standardelor de calitate.
+Îmbunătăţirea calităţii educaţiei presupune evaluare, analiză şi acţiune corectivă continuă din partea Școlii Gimnaziale Nr. 1 Bistrița, bazată pe selectarea şi adoptarea celor mai potrivite proceduri, precum şi pe alegerea şi aplicarea standardelor de calitate.
 
 În evaluarea calităţii educaţiei, sunt respectate obligatoriu valorile şi principiile prevăzute la art. 2 şi 3 din Legea învăţământului preuniversitar nr. 198/2023.

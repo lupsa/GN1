@@ -4,7 +4,7 @@ title: "Despre noi"
 
 **Școala Gimnazială Nr.1** are o istorie relativ scurtă. Ea și-a deschis porțile în toamna anului 1964. În anul școlar 2014/2015 am sarbătorit 50 de ani de la inființare, prilej cu care școala noastră a organizat o serie de manifestări dedicate acestui important eveniment din istoria sa.
 
-Datorită calității învațământului, școala a devenit un "magnet" pentru populația bistrițeană, înregistrându-se o fluență de copii care a impus extinderea școlii cu încă o clădire în anul 1975.
+Datorită calității învațământului, școala a devenit un „magnet” pentru populația bistrițeană, înregistrându-se o fluență de copii care a impus extinderea școlii cu încă o clădire în anul 1975.
 
 Școala Gimnazială Nr.1 oferă populației școlare alternative educaționale și metodologice, toate vizând modelarea, formarea și pregătirea elevilor ca cetățeni ai României secolului XXI.
 

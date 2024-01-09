@@ -1,3 +1,3 @@
 ---
 ---
-@2023 Toate drepturile rezervate
+@2024 Toate drepturile rezervate

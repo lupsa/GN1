@@ -14,21 +14,21 @@ Am adoptat un rol activ în comunitatea școlară, implicându-ne în proiectele
 
 Pentru noi este relevant să formăm în rândul elevilor o rutină a învățării, care să-i ajute să capete încredere în ei înșiși, să aibă deschidere spre efort și muncă susținută care să le aducă rezultate imediate și satisfacții pe termen lung și mediu, menținându-le astfel interesul spre învățarea limbilor străine. Utilizarea mijloacelor moderne și a tehnicilor multimedia la orele de limbi străine le facilitează elevilor învățarea și le deschide orizonturile cunoașterii spre resurse actuale și noutăților în domeniul limbilor moderne.
 
-Ne amintim cu drag și recunoștință de toți colegii profesori care au predat în școala noastră și s-au dedicat cu profesionalism și dăruire în predarea limbilor străine atâtor generații de elevi care au invățat în școala noastră de-a lungul celor aproape 60 de ani de existență. La limba engleză, doamnele profesoare: Perseca Zoe, Franchy Liliana, Lazãr Ligia, Pop Alina, Bâz Liana, Pop Monica, Ştefan Valentina, Botezatu Rodica, au rãmas în memoria elevilor ca dascãli avangardişti, moderni, încã de atunci.
+Ne amintim cu drag și recunoștință de toți colegii profesori care au predat în școala noastră și s-au dedicat cu profesionalism și dăruire în predarea limbilor străine atâtor generații de elevi care au invățat în școala noastră de-a lungul celor aproape 60 de ani de existență. La limba engleză, doamnele profesoare: Liana Bâz, Rodica Botezatu, Liliana Franchy, Ligia Lazãr, Zoe Perseca, Alina Pop, Monica Pop, Valentina Ştefan, au rãmas în memoria elevilor ca dascãli avangardişti, moderni, încã de atunci.
 
-Dupã 1990, au predat limba lui Shakespeare, doamnele profesoare Cecilia Zsejki , Alina Popa, iar după ani s-au alăturat doamnele profesoare Feier Andreea și Ilieşiu Ramona. După anul 2010 s-a alăturat colectivului nostru doamna profesoară Veronica Cîmpeanu, împreună cu Elisabeta Buzilã, Adina Sângeorzan, Gabriela Furedi Ancuța Berende, Ancuța Chereja, Cristina Hădărău, Livia Chiriac, Simona Beudean și Ruxandra Dobra.
+Dupã 1990, au predat limba lui Shakespeare, doamnele profesoare Cecilia Zsejki , Alina Popa, iar după ani s-au alăturat doamnele profesoare Andreea Feier și Ramona Ilieşiu. După anul 2010 s-a alăturat colectivului nostru doamna profesoară Veronica Cîmpeanu, împreună cu Elisabeta Buzilã, Adina Sângeorzan, Gabriela Furedi, Ancuța Berende, Ancuța Chereja, Amalia Chira, Cristina Hădărău, Livia Chiriac, Simona Beudean și Ruxandra Dobra.
 
-La limba francezã, între anii 1970 şi 1980 au predat limba franceză doamnele profesoare Nicoleta Toader, Apian Florica, Mucea Dorina, Suãrãşan Mariana şi domnul profesor Francisc Bihari, iar între anii 1980 şi 2000, doamnele profesoare de franceză, Someşan Daniela, Mireşan Adriana, Turcu Gabriela, Zaig Lucia, Rusu Veturia care, prin dãruire şi seriozitate, au fãcut din limba lui Molière, un obiect de studiu îndrãgit de toatã lumea! Au activat în şcoala noastră ca şi profesoare de limba franceză doamnele profesoare Paşca Mirela, Tofan Anamaria, Lăpuşte Geta, Lãpuşte Alina, Skrabel Monica, Matei Maria, Ionela Başota, care au dat dovadã de aceeaşi dãruire şi implicare.
+La limba francezã, între anii 1970 şi 1980 au predat limba franceză doamnele profesoare Nicoleta Toader, Florica Apian,  Dorina Mucea, Mariana Suãrãşan şi domnul profesor Francisc Bihari, iar între anii 1980 şi 2000, doamnele profesoare de franceză, Daniela Someşan, Adriana Mireşan, Gabriela Turcu, Lucia Zaig, Veturia Rusu care, prin dãruire şi seriozitate, au fãcut din limba lui Molière, un obiect de studiu îndrãgit de toatã lumea! Au activat în şcoala noastră ca şi profesoare de limba franceză doamnele profesoare Mirela Paşca, Anamaria Tofan, Geta Lăpuşte, Alina Lãpuşte, Monica Skrabel, Maria Matei, Ionela Başotă, care au dat dovadă de aceeaşi dăruire şi implicare.
 
-Dupa 1990, se înfiinţeazã catedra de limba germană din care a fãcut parte doamna profesoarã Mucea Gabriela, iniţiatoarea târgului nostru de Paşte. Colega noastrã, profesor Rusu Mihaela, continuã cu devotament și dăruire munca colegei sale.
+Dupa 1990, se înfiinţează catedra de limba germană din care a fãcut parte doamna profesoarã Mucea Gabriela, iniţiatoarea târgului nostru de Paşte. Colega noastrã, profesor Rusu Mihaela, continuă cu devotament și dăruire munca colegei sale.
 
-Catedra de limba rusã a fost reprezentatã de doamnele profesoare Constantinescu Zenovia, Zsejki Elisabeta, Ilieş Cornelia şi Rusu Maria. Doamna profesoarã Feier Andreea şi domnul profesor, Arieşan Ilie au imbogățit cultural școala noastră, elevii învățând cu interes şi limba italianã.
+Catedra de limba rusã a fost reprezentatã de doamnele profesoare Zenovia Constantinescu, Elisabeta Zsejki, Cornelia Ilieş  şi Maria Rusu. Doamna profesoarã Feier Andreea şi domnul profesor, Arieşan Ilie au îmbogățit cultural școala noastră, elevii învățând cu interes şi limba italianã.
 
 Colectivul catedrei noastre este în prezent format din 8 cadre didactice tinere, cu interes și deschidere spre formare și dezvoltare:
 
-- limba engleză: Beudean Simona, Chiriac Livia, Cîmpeanu Veronica, Dobra Ruxandra, Ilieșiu Ramona .
+- limba engleză: Simona Beudean, Livia Chiriac, Veronica Cîmpeanu, Ruxandra Dobra , Ramona Ilieșiu.
 
-- limba franceză: Tofan Anamaria și Slevoacă Crina.
+- limba franceză: Anamaria Tofan  și Crina Slevoacă.
 
 - limba germană: Rusu Mihaela.
 
