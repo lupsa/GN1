@@ -1,13 +1,12 @@
 ---
 title: "Catedra de Limba română"  
 type: 03_Gimnaziu
-#date: 2023-05-20T18:09:30+00:00
+date: 2023-12-31T21:52:00+01:00
 slug: 03_Gimnaziu
 ---
    {{< figure src="carte1.png" title=""  class="text-right" >}}
 
  **„S-ar putea crede că întreaga natură a ostenit la zidirea Limbii Române.”** - *(Grigore Vieru)*
-
 
 *„A vorbi despre limba română este ca o duminică. Limba română este patria mea. De aceea, pentru mine, muntele munte se numește, de aceea, pentru mine, iarba iarbă se spune, de aceea, pentru mine, izvorul izvorăște, de aceea, pentru mine, viața se trăiește.”* ***(Nichita Stănescu)***
 
@@ -22,18 +21,15 @@ Astăzi, activitatea didactică este susținută de doamnele profesoare: Carmen 
 Astfel, sub îndrumarea profesorilor din catedra de limba română, elevii au participat la diferite olimpiade și concursuri școlare, de unde s-au întors, de fiecare dată, cu numeroase premii și mențiuni atât la etapele județene, cât și la cele naționale: Olimpiada de Limba și Literatura Română, Olimpiada „Lectura ca Abilitate de Viață”, Concursul Interdisciplinar „Cultură şi spiritualitate românească”, Olimpiada de Lingvistică „Solomon Marcus”, Concursul de creație literară „Orizonturi”, Concursul Național Trasnscurricular de Lectură și Interpretare „Ionel Teodoreanu”.
 De asemenea, ne mândrim cu rezultate deosebite obținute la disciplina limba și literatura română la examenul de Evaluare Națională, în urma cărora, absolvenții claselor a VIII-a au fost admiși la liceele de top din Bistrița.
 
-![](lro1.png) ![](lro2.png)
+![imagine](lro1.png) ![imagine](lro2.png)
 {.text-center}
 
 În plus, au avut loc și activități extracurriculare, precum „Biblioteca Vie”, proiectul județean „Alege cartea!”, ateliere de lectură, Ziua Internațională a Cititului Împreună – ZICI, participări la lansări de carte, aniversări ale scriitorilor români.
 Aceste lucruri au putut fi posibile grație unei echipe de profesori dedicați care au pus întotdeauna munca la catedră mai presus de orice, dar și unei bune colaborări cu toți factorii implicați în educație: elevi, părinți, colegi. Totul este posibil când există implicare, perseverență, muncă și mult suflet!
 
-![](lro3.png) ![](lro4.png)
+![imagine](lro3.png) ![imagine](lro4.png)
 {.text-center}
 
 Povestea merge mai departe…
 
 Cuvinte-cheie: **creativitate, libertate, opinii, comunicare, optimism, cooperare, sensibilitate, inspirație**.
-
-
-

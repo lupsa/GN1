@@ -1,7 +1,7 @@
 ---
 title: "Catedra de Matematică"  
 type: 03_Gimnaziu
-# date: 2023-05-20T18:09:30+00:00
+date: 2023-12-29T21:52:00+01:00
 # slug: 03_Gimnaziu
 ---
 

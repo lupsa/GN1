@@ -1,9 +1,9 @@
 ---
 title: "Catedra de Fizică"
+date: 2023-12-28T21:52:00+01:00
 ---
 
 **“Nimic nu este încheiat în investigația umană și nimic nu este ultimul cuvânt.”**   - *(Roger Bacon)*
-
 
 ![](fiz1.png) ![](fiz2.png) ![](fiz3.png)
 {.text-center}

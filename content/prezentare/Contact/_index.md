@@ -2,7 +2,7 @@
 title: "Date de contact"
 ---
 
-**ȘCOALA GIMNAZIALĂ NR.1 BISTRIȚA**
+### ȘCOALA GIMNAZIALĂ NR. 1 BISTRIȚA
 
 - Bistrița, Str. B-dul Independenței, Nr. 46;
 - Telefon/Fax: 0263-236049;

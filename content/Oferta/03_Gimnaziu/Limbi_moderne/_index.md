@@ -1,5 +1,6 @@
 ---
 title: "Catedra de Limbi moderne"
+date: 2023-12-30T21:52:00+01:00
 ---
 
 **”Învățând o limbă străină nu învățăm numai cum gândesc și cum simt alte societăți, ceea ce au experimentat, valorile și cum se exprimă, ci avem totodată o oglindă culturală în care putem să vedem mai clar propria noastră societate”** -  *(Edward Lee Gorsuch)*.

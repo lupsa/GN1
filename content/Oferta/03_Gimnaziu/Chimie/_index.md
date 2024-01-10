@@ -1,5 +1,6 @@
 ---
 title: "Catedra de Chimie"
+date: 2023-12-27T21:52:00+01:00
 ---
 
 **„În mare parte, viaţa poate fi înţeleasă dacă se exprimă prin limbajul chimiei. Chimia este o limbă internaţională, o limbă pentru toate timpurile, o limbă care explică de unde venim, ce suntem şi încotro ne îndreptăm. Limbajul chimic are o mare frumuseţe estetică şi face legătura între ştiinţele fizice şi ştiinţele biologice.”** - *Artur Kornberg (premiul Nobel pentru Medicină - 1959)*
