@@ -1,5 +1,6 @@
 ---
 title: "Catedra de Educație plastică"
+date: 2023-12-22
 # date: 2023-05-20T18:09:30+00:00
 ---
 

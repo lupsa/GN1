@@ -1,5 +1,6 @@
 ---
 title: "Catedra de Educație fizică și sport"
+date: 2023-12-20
 ---
 
 **„Ceea ce este cultura pentru umanitate este olimpismul pentru sport”** - *(Pierre de Coubertin)*
