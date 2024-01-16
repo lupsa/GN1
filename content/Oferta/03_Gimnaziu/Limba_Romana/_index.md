@@ -3,8 +3,9 @@ title: "Catedra de Limba română"
 type: 03_Gimnaziu
 date: 2023-12-31T21:52:00+01:00
 slug: 03_Gimnaziu
+featured_image: carte1.png
 ---
-   {{< figure src="carte1.png" title=""  class="text-right" >}}
+   {{< figure src="carte1.png" title=""  class="float-start" >}}
 
  **„S-ar putea crede că întreaga natură a ostenit la zidirea Limbii Române.”** - *(Grigore Vieru)*
 

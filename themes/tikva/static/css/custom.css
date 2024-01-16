@@ -20,8 +20,15 @@ main header {
   padding-top: 20px; 
 }
 
-.tikva-sidebar p {text-align: justify; 
-font-size:14px;}
+.featured_image {
+    float: left;
+    padding-right: 1rem;
+}
+
+.tikva-sidebar p {
+    text-align: justify; 
+    font-size: 14px;
+}
 
 .subfooter-container > .container {
   padding-top: 20px; 

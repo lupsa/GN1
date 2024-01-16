@@ -11,11 +11,16 @@
     <span class="byline-icon fa fa-user" aria-hidden="true"></span><span class="screen-reader-text">{{ i18n "author" }}: </span> {{ $author }}{{ end }}
     {{ if $showNumberOfWords }} - {{ .FuzzyWordCount }} {{ i18n "words" }}{{ end }} </div>
   </header>
+      {{ with $image := .Resources.Get .Params.featured_image }}
+        <div class="featured_image">
+        <img src="{{ ($image.Fill "100x100 q100 Center").RelPermalink }}"  alt="">
+        </div>
+    {{ end }}
   {{ .Summary }}
 
-  <footer>
+  <footer class="pt-2 pb-2">
   {{ if .Truncated }}
-  <a href='{{ .Permalink }}'>  
+  <a class="float-end" href='{{ .Permalink }}'>  
   <span class="btn  btn-outline-primary">{{ i18n "readMore" . }} <span class="screen-reader-text">{{ i18n "readMoreOn" }} {{ .Title }}</span><span class="meta-nav"> »</span></span>
   </a>
   {{ end }}
