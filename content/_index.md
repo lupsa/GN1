@@ -4,6 +4,8 @@ title: Școala Gimnazială Nr. 1 Bistrița
 date: 2023-11-04T21:52:00+01:00
 ---
 
+{{< video src="exemplu.mp4" class="text-center" title="Titlu deasupra de video" >}}
+
 Școala Gimnazială Nr. 1 are o istorie de 6 decenii. Ea și-a deschis porțile în toamna anului 1964. În anul școlar 2014/2015 am sarbătorit 50 de ani de la înființare, prilej cu care școala noastră a organizat o serie de manifestări dedicate acestui important eveniment din istoria sa.
 Datorită calității învațământului, școala a devenit un "magnet" pentru populația bistrițeană, înregistrându-se o fluență de copii care a impus extinderea școlii cu încă o clădire în anul 1975. În toamna anului 2023 s-a dat în folosință clădirea reabilitată a școlii vechi, sala de sport nouă și extinsă, precum și corpul C reabilitat, toate clădirile beneficiind de dotări și funcționalități la standarde euopene.
 &ensp;

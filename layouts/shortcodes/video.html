@@ -1,0 +1,7 @@
+{{ with .Get "title" }}
+<h4>{{.}}</h4>
+{{end}}
+<video {{ with $.Get "class" }}class="{{.}} mb-3" {{ end }} width=100% controls>
+    <source {{with .Get "src"}}src="{{ . | absURL }}" {{ end }} type="video/webm">
+    Your browser does not support the video tag.  
+</video>
