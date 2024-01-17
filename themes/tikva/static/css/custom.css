@@ -2,10 +2,18 @@
 main {
     text-align: justify;
 }
+
 nav#navbarMain {
     padding-top: 2px;
     padding-bottom: 2px;
 }
+
+@media (min-width: 1400px) {
+    nav#navbarMain {
+        font-size: 1.27rem !important;
+    }
+}
+
 
 main p{
     text-indent: 3%;

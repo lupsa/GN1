@@ -134,7 +134,7 @@ mainSections  = ["homepage"]
     #navbar = 'Lucida, Verdana' # font settings for navigation bar
     navbarGoogleFont = false # If the font in the above variable is a Google font, set this option to true.  
     navbarVariant = '' # See above
-    navbarSize = '20px' # See above
+    navbarSize = '1.04rem' # See above
 
     body = 'Noto Sans' # font settings for body content
     bodyGoogleFont = true # If the font in the above variable is a Google font, set this option to true. 
