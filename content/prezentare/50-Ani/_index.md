@@ -1,18 +1,24 @@
 ---
 title: "Aniversare 50 de ani"
 ---
-Aniversare..
 
-de adus filmulet de pe site vechi
+&ensp;
 
+**Sărbătoarea a 50 de ani de calitate și  performanță:**
+{.text-center .fw-bold}
 
-![film-link](gn1_50_ani.mov)
+**1964/1965 - 2014/2015**
+{.text-center .fw-bold}
 
+{{< video src="gn1_50_ani.mp4" class="text-center" title="Aniversarea a 50 de ani de la înființarea școlii Gimnaziale Nr. 1 Bistrița" >}}
+&ensp;
 
+{.mt-3}
 
+InGEN1um 2015 - revista aniversară
+{.text-center .fw-bold}
 
-
-InGEN1um - revista 2015 - aniversare de pe site vechi alista reviste 2015
-
-
-{{< figure src="gn1_50_ani.mov" title=" film 50 ani sub ingenium " width="300px" class="text-center" >}}
+{.mt-3}
+{{< embed-pdf url="InGEN1um_aniversar.pdf"  >}}
+  
+{.mt-3}
