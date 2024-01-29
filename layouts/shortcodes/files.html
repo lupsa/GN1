@@ -1,11 +1,25 @@
-{{- $pathURL := .Get "pathURL" -}}
-{{- $path := .Get "path" -}}
-{{- $files := readDir $path -}}
-<table>
-    <th>{{ $path }}</th>
-{{- range $files }}
-    <tr>
-        <td><a href="{{ $pathURL }}{{ .Name | relURL }}" target="_blank"> {{ .Name }}</a></td>
-    </tr>
-{{- end }}
-</table>
+{{ if $folder := .Get "path" }}
+    <div class="table-responsive-sm">
+        <h5>{{ with .Get "title" }}{{ . }}{{ end }}</h5>
+    <table class="custom_files table table-hover align-middle table-sm w-auto">
+        {{ with .Page }}
+            {{ $dir := path.Clean .RelPermalink }}
+            {{ $read_files := readDir (printf "content/%s/%s" $dir $folder) }}
+            {{ range sort $read_files ($.Get "sort_by" | default "Name") ($.Get "sort_order" | default "desc") }}
+                {{ if and (not .IsDir) (path.BaseName .Name) }}
+                    {{ $name_files := path.BaseName .Name }}
+                    {{ $link := printf "%s/%s/%s" $.Page.Permalink $folder .Name }}
+                    <tr>
+                        {{ with $.Page.Resources.GetMatch (printf "%s/img/%s.*" $folder $name_files) }}
+                            <td scope="row"><img height="50px" src="{{ .Permalink }}"></td>
+                        {{ else }}
+                            <td scope="row"><img height="50px" src="{{ "img/files-default.png" | absURL }}"></td>
+                        {{ end }}
+                        <td><a href="{{ $link }}" target="_blank">{{ $name_files }}</a></td>
+                    </tr>
+                {{ end }}
+            {{ end }}
+        {{ end }}
+    </table>
+    </div>
+{{ end }}

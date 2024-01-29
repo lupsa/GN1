@@ -12,7 +12,4 @@ Ne dorim din tot sufletul ca această revistă să fie o punte între lumea noas
 {.mt-3}
 {.mt-3}
 
-- {{< files path="content/Reviste/InGEN1um/pdf" pathURL="pdf/" >}}
-  
-{.mt-3}
-{.mt-3}
+{{< files path="pdf" >}}

@@ -242,3 +242,15 @@ figcaption h4 {
 .main-nav .has-children .has-children > a:after {
   content: "\f105";
 }
+
+/* Table for shortcode files */
+.custom_files {
+    text-align: left;
+}
+.custom_files a {
+    text-decoration: none;
+}
+
+.custom_files a:hover {
+    text-decoration: underline;
+}

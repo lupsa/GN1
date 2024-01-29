@@ -5,7 +5,7 @@ title: "CEAC"
 
 <!--- This is an HTML comment in Markdown -->
 
-{{< files path="content/prezentare/CEAC/pdf" pathURL="pdf/" >}}
+{{< files path="pdf" title="Documente" >}}
 
 
 &ensp;
