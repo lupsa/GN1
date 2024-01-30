@@ -167,8 +167,17 @@ mainSections  = ["homepage"]
 #
 # If no parameter is added to the image in the Markdown code, the default behavior changes the width of the image so that it scales with the parent element.
 
-[images]
+[hugomods]
+[hugomods.images]
     extendedRendering = false # backward compatible default setting is "false"; set to true to activate extended image rendering functions
+    alignment_center_class_name = 'd-block text-center'
+    alignment_end_class_name = 'float-end ms-2'
+    alignment_start_class_name = 'float-start me-2'
+    class_name = 'img-fluid'
+    figure_caption_class_name = 'figure-caption'
+    figure_class_name = 'figure'
+    figure_image_class_name = 'figure-img'
+    modern_format = 'webp'
 
 # Post options
 
