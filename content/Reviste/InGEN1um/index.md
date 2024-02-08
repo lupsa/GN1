@@ -2,6 +2,7 @@
 title: "Revista InGEN1um"
 ---
 
+{.mt-3}
 
 Ideea de a întocmi o revistă școlară a venit ca o nevoie de exprimare a vocii noastre interioare comune în care să se oglindească gândurile, năzuințele, realizările, ideile și visurile noastre, ale familiei generoase din care facem parte cu toții, profesori, elevi și părinți ai Şcolii Gimnaziale Nr. 1 Bistrița.
 

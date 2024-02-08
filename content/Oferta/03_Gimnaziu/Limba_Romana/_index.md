@@ -5,10 +5,13 @@ date: 2023-12-31T21:52:00+01:00
 slug: 03_Gimnaziu
 featured_image: carte1.png
 ---
-   {{< figure src="carte1.png" title=""  class="float-start" >}}
+ 
 
- **„S-ar putea crede că întreaga natură a ostenit la zidirea Limbii Române.”** - *(Grigore Vieru)*
+ **„S-ar putea crede că întreaga natură a ostenit la zidirea Limbii Române.”** - ***(Grigore Vieru)***
+  {{< figure src="carte1.png" title=" "  class="float-start" >}}
 
+   {.mt-3}
+    
 *„A vorbi despre limba română este ca o duminică. Limba română este patria mea. De aceea, pentru mine, muntele munte se numește, de aceea, pentru mine, iarba iarbă se spune, de aceea, pentru mine, izvorul izvorăște, de aceea, pentru mine, viața se trăiește.”* ***(Nichita Stănescu)***
 
 Pentru toate popoarele, indiferent de profesiile membrilor societății, gradul de stăpânire și de folosire a limbii reprezintă o trăsătură definitorie a nivelului cultural. Deși la formarea și dezvoltarea limbajului contribuie întreg mediul social și cultural în care se dezvoltă omul, un rol important în perfecționarea exprimării revine școlii și, în cadrul ei, locul de vază îl ocupă studiul limbii.

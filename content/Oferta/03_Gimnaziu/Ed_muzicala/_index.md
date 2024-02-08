@@ -4,11 +4,16 @@ type: 03_Gimnaziu
 date: 2023-12-21
 #date: 2023-05-20T18:09:30+00:00
 #slug: 03_Gimnaziu
+featured_image: muzica1.png
 ---
 
-**"Viaţa e o melodie frumoasă, doar versurile sunt foarte încurcate…"** – *Hans Christian Andersen*
 
-{{< figure src="muzica1.png" title="imagine mica"  class="floatright" >}}
+
+  {.mt-3}
+**"Viaţa e o melodie frumoasă, doar versurile sunt foarte încurcate…"** – *Hans Christian Andersen*
+ {.mt-3}
+ {{< figure src="muzica1.png" title=" "  class="float-start" >}}
+ {.mt-3}
 
 Câteodată avem norocul să descoperim o super muzică. Una care ne place foarte, foarte mult. Simțim că ne dă aripi, că ne însuflețește, că ne face să ne simțim extraordinar. Sau câteodată simțim nevoia să fim singuri cu muzica noastră preferată… Oricum ar fi muzica joacă un rol în viața noastră. Și asta nu poate fi negat. Și dacă face parte din viața noastră, înseamnă că-și găsește locul și în postările noastre de pe social media, de pe Facebook sau Instagram.
 
