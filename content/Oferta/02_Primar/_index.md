@@ -4,10 +4,6 @@ title: "Învățământ primar"
 
 &nbsp; Școala Gimnazială Nr.1 Bistrița a fost întotdeauna un gigant școlar, căutată de elevi și părinți, pentru că aici CALITATEA este la ea acasă - e un deziderat care se transmite din generație în generație, e ethos organizațional. Pentru cei mai mulți dintre noi școala absolvită lasă o amprentă clară și rămâne de-a lungul vieții un punct de reper, un tărâm al tumultului de tinerețe și entuziasm care răzbate în timp și peste timpuri.
 
-
-{{< figure src="1a.png" title="" width="200px" class="text-center" >}}
-
-
 &nbsp; Seriozitatea, perseverența, dăruirea, profesionalismul, implicarea, spiritul de competiție, capacitatea de empatie sunt doar o parte dintre însușirile care îi caracterizează pe dascălii noștri.
 Afirmarea performanței este pentru noi o asumare a unei tradiții, fapt realizat prin făurirea și păstrarea unui prestigiu, prin credința în reușită și mai ales prin statornicie. Am creat un spațiu al misiunii asumate, al viziunii dovedite, în care se construiește cu responsabilitate un destin, destinul acestei școli, cu cadre didactice deosebite și cu minunați elevi.
 

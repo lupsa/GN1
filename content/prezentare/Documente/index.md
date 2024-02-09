@@ -1,27 +1,28 @@
 ---
 title: "Documente de interes public"
 ---
+{.mt-3}
+{.mt-3}
+{.mt-3}
 
+## Documente manageriale - PDI:
+
+{{< files path="pdi" >}}
+
+## Rapoarte - RAEI:
+
+{{< files path="raei" >}}
 
 {.mt-3}
 
-{{< files path="2023" title="Documente 2023" >}}
-
-{.mt-3}
-
-{{< files path="2022" title="Documente 2022" >}}
-
-
-{.mt-3}
-
-## Documente utile, (adeverințe, tipizate, modele...)
+## Tipizate:
 
 {{< files path="tipizate" >}}
 
 {.mt-3}
 {.mt-3}
 
-## Documente contabile
+## Documente contabile:
 
  {.mt-3}
 
@@ -35,7 +36,7 @@ title: "Documente de interes public"
 {.mt-3}
 {.mt-3}
 
-## Venituri brute
+## Venituri brute:
 
 {.mt-3}
 
@@ -43,12 +44,9 @@ title: "Documente de interes public"
 
 {.mt-3}
 
-## Declarații avere și de interes
+## Declarații avere și de interes:
 
  {.mt-3}
 
 {{< files path="declaratii" title="Declarații" >}}
  {.mt-3}
- 
-## PDI și RAEI
-{{< files path="pdi_raei" >}}

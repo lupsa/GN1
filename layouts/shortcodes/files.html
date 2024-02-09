@@ -11,7 +11,7 @@
                     {{ $link := printf "%s/%s/%s" $.Page.Permalink $folder .Name }}
                     <tr>
                         {{ with $.Page.Resources.GetMatch (printf "%s/img/%s.*" $folder $name_files) }}
-                            <td scope="row"><img height="100px" src="{{ .Permalink }}"></td>
+                            <td scope="row"><img height="90px" src="{{ .Permalink }}"></td>
                         {{ else }}
                             <td scope="row"><img height="100px" src="{{ "img/files-default.png" | absURL }}"></td>
                         {{ end }}

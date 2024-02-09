@@ -2,7 +2,14 @@
 title: "Proiect European Erasmus+"
 ---
 &ensp;
+
  [**Diplomă acreditare Erasmus - Școala Gimnazială Nr. 1 Bistrița**](/Activitati/03_Erasmus+/pdf/acreditareGN1.pdf)
+
+&ensp;
+ {{< figure src="acreditareGN1.png" title="" width="500px" class="text-center" >}}
+
+
+
 
 &ensp;
 
