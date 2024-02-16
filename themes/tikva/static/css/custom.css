@@ -1,5 +1,5 @@
 /* Modificari by Florin & Darius */
-main p, main article {
+main p, main article, #content p {
     text-align: justify;
 }
 
@@ -21,6 +21,11 @@ main p{
 
 main header {
     margin-bottom: 2rem;
+
+}
+
+.float-start {
+    padding-right: 1.5rem;
 
 }
 
