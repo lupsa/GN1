@@ -2,7 +2,7 @@ baseurl = "https://www.scoala1bistrita.ro"
 languageCode = "ro"
 title = "Școala Gimnazială Nr. 1 Bistrița"
 
-theme = ["tikva"]
+theme = ["tikva", "gallery"]
 enableInlineShortcodes = true
 
 # Language setting of the site, for language configuration see
