@@ -1,36 +1,31 @@
 ---
 title: "Proiect European Erasmus+"
 ---
-&ensp;
 
- [**Diplomă acreditare Erasmus - Școala Gimnazială Nr. 1 Bistrița**](/Activitati/03_Erasmus+/pdf/acreditareGN1.pdf)
-
-&ensp;
  {{< figure src="acreditareGN1.png" title="" width="500px" class="text-center" >}}
 
+&ensp;
 
-
+ [**Diplomă acreditare Erasmus - Școala Gimnazială Nr. 1 Bistrița** - format .pdf](/Activitati/03_Erasmus+/pdf/acreditareGN1.pdf)
 
 &ensp;
 
  [**Erasmus Days la Școala Gimnaziala Nr. 1 Bistrița - săptămâna 9-13 octombrie 2023:**](https://www.facebook.com/groups/237285756803683/permalink/1569017413630504/?paipv=0&eav=AfaMoHOcgzMWbC6G16ovHjy0DipljfGKuFWVFo9b7fsP7ijdbZttYGp7KJIjC5mPgQg&_rdr)
-
-&ensp;
   
 &ensp;
 &ensp;
 
 **Articole de Presă:**
 
-- [Didactica Nova - (pagina 4) - Școala Gimnazială Nr.1 în Italia, proiect Erasmus+ pentru viitorul verde al planetei](/Activitati/03_Erasmus+/pdf/didactica_nova_mai-2023.pdf);
+- [Didactica Nova - (pagina 4) : - Școala Gimnazială Nr.1 Bistrița, în Italia, proiect Erasmus+ pentru viitorul verde al planetei](/Activitati/03_Erasmus+/pdf/didactica_nova_mai-2023.pdf);
 
 - [Proiectul Erasmus+ "Giving a Glass of Water with Love to the Grandchild"](https://www.infobistrita.ro/cinci-eleve-si-doua-profesoare-bistritene-intr-un-proiect-erasmus);
 
-- [Școala Gimnazială Nr.1 Bistriţa, în Polonia](https://rasunetul.ro/scoala-gimnaziala-nr1-bistrita-polonia);
+- [Școala Gimnazială Nr. 1 Bistriţa, în Polonia](https://rasunetul.ro/scoala-gimnaziala-nr1-bistrita-polonia);
 
-- [Școala Gimnazială Nr.1 în Italia, parteneriat internațional prin acreditarea Erasmus+ 2021-2027](https://rasunetul.ro/scoala-gimnaziala-nr1-italia-parteneriat-international-prin-acreditarea-erasmus-2021-2027);
+- [Școala Gimnazială Nr. 1 Bistrița, -  în Italia, parteneriat internațional prin acreditarea Erasmus+ 2021-2027](https://rasunetul.ro/scoala-gimnaziala-nr1-italia-parteneriat-international-prin-acreditarea-erasmus-2021-2027);
 
-- [Școala Gimnazială Nr.1 în Italia, proiect Erasmus+ pentru viitorul verde al planetei](https://rasunetul.ro/scoala-gimnaziala-nr1-italia-proiect-erasmus-pentru-viitorul-verde-al-planetei);
+- [Școala Gimnazială Nr. 1 Bistrița, - în Italia, proiect Erasmus+ pentru viitorul verde al planetei](https://rasunetul.ro/scoala-gimnaziala-nr1-italia-proiect-erasmus-pentru-viitorul-verde-al-planetei);
 
 &ensp;
 
@@ -82,4 +77,4 @@ title: "Proiect European Erasmus+"
 
 - [Răsunetul: Proiect Erasmus la Școala Gimnazială Nr.1 Bistrița](http://www.rasunetul.ro/proiect-erasmus-la-scoala-gimnaziala-nr-1-bistrita);
 
-- [Răsunetul:Școala Gimnazială Nr.1 Bistrița, reprezentată cu cinste în Turcia](http://www.rasunetul.ro/scoala-gimnaziala-nr1-bistrita-reprezentata-cu-cinste-turcia).
+- [Răsunetul: Școala Gimnazială Nr.1 Bistrița, reprezentată cu cinste în Turcia](http://www.rasunetul.ro/scoala-gimnaziala-nr1-bistrita-reprezentata-cu-cinste-turcia).
