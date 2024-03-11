@@ -2,42 +2,45 @@
 title: "Echipa managerială"
 ---
 
-- ##### Director: prof. Ancuța-Ioana MIHAIU;
 
-- ##### Director adjunct: prof. Elena-Dana MORARU;
+ {{< figure src="1a.png" title=" " width="90" class="float-end" >}}
+ {.mt-3}
+ {.mt-3}
 
-- ##### Coordonator proiecte educaționale: prof.  Anamaria-Aurora TOFAN;
+- ##### Director: prof. Ancuța-Ioana MIHAIU
 
+- ##### Director adjunct: prof. Elena-Dana MORARU
+
+- ##### Coordonator proiecte educaționale: prof.  Anamaria-Aurora TOFAN
+
+ {.mt-3}
 &nbsp;
-- 
 
 **COMPONENȚA CONSILIULUI DE ADMINISTRAȚIE A ȘCOLII GIMNAZIALE NR. 1 BISTRIȚA:**
 &nbsp;
 &nbsp;
-- ##### Director: prof. Ancuța-Ioana MIHAIU - președinte;
 
-- ##### Director adjunct: prof. Elena-Dana MORARU - membru;
+- ##### Director: prof. Ancuța-Ioana MIHAIU - președinte
+
+- ##### Director adjunct: prof. Elena-Dana MORARU - membru
   
-- ##### Prof. Monia TODEA - membru;
+- ##### Prof. Monia TODEA - membru
 
-- ##### Prof. Nicoleta TOMA - membru;
+- ##### Prof. Nicoleta TOMA - membru
 
-- ##### Prof. Lenuța VAMANU - membru;
+- ##### Prof. Lenuța VAMANU - membru
   
-- ##### Laurean Radu BRIA  - membru, președinte Asociația de părinți;
+- ##### Laurean Radu BRIA  - membru, președinte Asociația de părinți
 
-- ##### Adriana ANTONEAC - membru, reprezentant Asociația de părinți;
+- ##### Adriana ANTONEAC - membru, reprezentant Asociația de părinți
 
-- ##### Cristina CUDREC - membru, reprezentant Asociația de părinți;
+- ##### Cristina CUDREC - membru, reprezentant Asociația de părinți
 
+- ##### Mărioara GAGA-SEICA - membru, reprezentant Consiliul Local
 
-- ##### Mărioara GAGA-SEICA - membru, reprezentant Consiliul Local;
+- ##### Emil Marian SUCIU - membru, reprezentant Consiliul Local
 
-- ##### Emil Marian SUCIU - membru, reprezentant Consiliul Local;
-
-- ##### Ioan PAPOI - membru, reprezentant Primăria Bistrița;
-
-
+- ##### Ioan PAPOI - membru, reprezentant Primăria Bistrița
 
 &nbsp;
 &nbsp;
@@ -45,7 +48,6 @@ title: "Echipa managerială"
 **PROGRAM DE AUDIENȚE**
 
 &nbsp;
-
 
 **Director: Prof. Mihaiu Ancuța-Ioana**
 &nbsp;

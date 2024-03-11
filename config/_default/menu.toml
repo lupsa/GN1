@@ -246,7 +246,7 @@
         identifier = "Școala Încrederii"
         parent = "Activități"
         name = "Școala Încrederii"
-        pageRef = "/Activitati/03_Increderii"
+        pageRef = "/Activitati/04_Increderii"
         weight = 4
  [[main]]
  identifier = "Anunțuri"
