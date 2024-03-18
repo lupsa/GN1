@@ -1,6 +1,6 @@
 /* Modificari by Florin & Darius */
-main p, main article, #content p {
-    text-align: justify;
+.container {
+    text-align: justify !important;
 }
 
 nav#navbarMain {
