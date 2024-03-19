@@ -59,7 +59,7 @@ jobs:
           hugo \
             --gc \
             --minify \
-            --baseURL "/"          
+            --baseURL "https://lupsa.github.io/GN1/"          
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:

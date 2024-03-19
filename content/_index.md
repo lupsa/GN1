@@ -6,7 +6,7 @@ featured_image: 1a.png
 ---
 
 {.mt-3}
- {{< figure src="1a.png" title=" " width="90" class="float-start" >}}
+ {{< figure src="/1a.png" title=" " width="90" class="float-start" >}}
  {.mt-3}
 
 &ensp;
