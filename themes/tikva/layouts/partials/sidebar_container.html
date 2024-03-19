@@ -1,5 +1,5 @@
 <aside class="col-md-3 tikva-sidebar">
-  
+    {{ partial "search-form.html" . }}  
 {{ $sidebarItems := .Site.GetPage "/sections/sidebar" }}
 {{ if $sidebarItems }}
     {{ range sort $sidebarItems.Resources "Name" }}
