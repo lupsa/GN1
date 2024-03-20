@@ -5,7 +5,7 @@
 {{- else }}
   {{- $thumbnail := partialCached "images/functions/page-thumbnail-resource" $page $page }}
   {{- with $thumbnail }}
-    {{- $img = replace .RelPermalink $page.RelPermalink "" | printf "%s?height=360px" }}
+    {{- $img = replace .Permalink $page.Permalink "" | printf "%s?height=360px" }}
   {{- end }}
 {{- end }}
 {{- $html := "" }}

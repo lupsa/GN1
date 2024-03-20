@@ -13,7 +13,7 @@
   </header>
       {{ with $image := .Resources.Get .Params.featured_image }}
         <div class="featured_image">
-        <img src="{{ ($image.Fill "100x100 q100 Center").RelPermalink }}"  alt="">
+        <img src="{{ ($image.Fill "100x100 q100 Center").Permalink }}"  alt="">
         </div>
     {{ end }}
   {{ .Summary }}

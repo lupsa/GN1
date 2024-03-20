@@ -14,7 +14,7 @@
   {{- $resource := .resources.GetMatch (strings.TrimPrefix "/" $url.Path) -}}
   {{- if $resource -}}
       {{- $pageResource = $resource -}}
-      {{- $link = $resource.RelPermalink -}}
+      {{- $link = $resource.Permalink -}}
       {{- if not (in $unresizable $ext) -}}
         {{- $resizable = true -}}
       {{- end -}}
@@ -115,7 +115,7 @@
   {{- with $filters }}
     {{- $img = $img | images.Filter $filters }}
   {{- end }}
-  {{- $link = $img.RelPermalink -}}
+  {{- $link = $img.Permalink -}}
 {{- end -}}
 
 {{- $alternativeFormats := slice "avif" "webp" "jxl" -}}

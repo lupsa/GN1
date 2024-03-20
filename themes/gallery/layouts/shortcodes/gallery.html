@@ -126,7 +126,7 @@ Ordinal: {{ .Ordinal}}
 					{{/* No need to use the rotated here, the browser will handle care of EXIF orientation */}}
 					{{ $full = $original }}
 				{{ end }}
-				<a href="{{ $full.RelPermalink }}" 
+				<a href="{{ $full.Permalink }}" 
 					class="galleryImg"
 					{{ with $metadata }}
 						{{ if .Title }}
@@ -154,21 +154,21 @@ Ordinal: {{ .Ordinal}}
 							{{ if $embedPreview }}
 								src="data:image/jpeg;base64,{{ $preview_b.Content | base64Encode }}"
 							{{ else }}
-								src="{{ $preview_b.RelPermalink }}"
+								src="{{ $preview_b.Permalink }}"
 							{{ end }}
 							class="lazy"
-							data-src="{{ $thumbnail.RelPermalink }}"
+							data-src="{{ $thumbnail.Permalink }}"
 						{{ else if (eq $previewType "color") }}
 							{{ $preview_1p := ($thumbnail.Resize ("1x1 box png")) }}
 							{{ if $embedPreview }}
 								src="data:image/png;base64,{{ $preview_1p.Content | base64Encode }}"
 							{{ else }}
-								src="{{ $preview_1p.RelPermalink }}"
+								src="{{ $preview_1p.Permalink }}"
 							{{ end }}
 							class="lazy"
-							data-src="{{ $thumbnail.RelPermalink }}"
+							data-src="{{ $thumbnail.Permalink }}"
 						{{ else }}
-							src="{{ $thumbnail.RelPermalink }}"
+							src="{{ $thumbnail.Permalink }}"
 						{{ end }}
 
 						{{ with $metadata }}

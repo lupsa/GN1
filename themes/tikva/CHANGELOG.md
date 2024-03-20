@@ -69,7 +69,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ### Changed
 
-- Moved from .URL to .RelPermalink in the navigation template due to Page's deprecation warning
+- Moved from .URL to .Permalink in the navigation template due to Page's deprecation warning
 
 ## 0.2.3 - 2019-02-13
 
