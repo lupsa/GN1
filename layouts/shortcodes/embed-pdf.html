@@ -121,7 +121,8 @@ View the PDF file <a class="pdf-source" id="pdf-source-noscript-{{ substr (.Get 
 
 <script type="text/javascript">
     (function(){
-    var url = '{{ .Get "url" }}';
+        {{ $url := (printf "%s%s" $.Page.Permalink (.Get "url")) }}
+    var url = '{{ $url }}';
 
     var hidePaginator = "{{ .Get "hidePaginator" }}" === "true";
     var hideLoader = "{{ .Get "hideLoader" }}" === "true";
