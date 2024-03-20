@@ -116,9 +116,11 @@
       </a>
     </div>
 <noscript>
-View the PDF file <a class="pdf-source" id="pdf-source-noscript-{{ substr (.Get "url" | md5) 0 8 }}" href="{{ .Get "url" }}">here</a>.
+Vezi pdf-ul <a class="pdf-source" id="pdf-source-noscript-{{ substr (.Get "url" | md5) 0 8 }}" href="{{ .Get "url" }}">aici</a>
 </noscript>
 
+        {{ $url := (printf "%s%s" $.Page.Permalink (.Get "url")) }}
+        {{ $url }}
 <script type="text/javascript">
     (function(){
         {{ $url := (printf "%s%s" $.Page.Permalink (.Get "url")) }}
